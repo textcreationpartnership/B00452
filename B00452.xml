@@ -1,0 +1,1267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is the glasse of helth. A great treasure for pore men, necessary and nedefull for euery person to loke in, y[t] wyll kepe theyr body from syckenesses, and dyseases: and it sheweth how the planettes reygne in euery houre of the daye &amp; the nyght, with the natures &amp; exposicions of the .xii. sygnes, deuyded by the .xii. monethes of the yere. And after foloweth of all the euyll and daungerous dayes of the yere. And sheweth the remedyes, for dyuers infyrmyties and dyseases, that hurteth the body of man..</title>
+            <author>Moulton, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1547</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00452</idno>
+            <idno type="STC">STC 18225.6</idno>
+            <idno type="STC">ESTC S94248</idno>
+            <idno type="EEBO-CITATION">54532424</idno>
+            <idno type="OCLC">ocm 54532424</idno>
+            <idno type="VID">180848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2140:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is the glasse of helth. A great treasure for pore men, necessary and nedefull for euery person to loke in, y[t] wyll kepe theyr body from syckenesses, and dyseases: and it sheweth how the planettes reygne in euery houre of the daye &amp; the nyght, with the natures &amp; exposicions of the .xii. sygnes, deuyded by the .xii. monethes of the yere. And after foloweth of all the euyll and daungerous dayes of the yere. And sheweth the remedyes, for dyuers infyrmyties and dyseases, that hurteth the body of man..</title>
+                  <author>Moulton, Thomas.</author>
+                  <author>Wyer, Robert, fl. 1530-1556, printer.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Robert Wyer, dwellynge in seynt Martyns parysshe, at charynge Crosse,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1547?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; date suggested by STC (2nd ed.).</note>
+                  <note>In this edition: 133 chapters, t.p. line 2, "helth", colop. "seynt ... parysshe,at".</note>
+                  <note>Printers' devices (McK. 68 &amp; 69) at colop.; initials.</note>
+                  <note>At foot of t.p. an astrological diagram, surrounded by the statement beginning "These ben the .iii. peryllous Mõdayes in the yere to let blod..."</note>
+                  <note>Signatures: a-i⁴.</note>
+                  <note>"Ad imprimendum solum."--colop.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medical astrology --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Hygiene --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180848:1"/>
+            <pb facs="tcp:180848:1" rendition="simple:additions"/>
+            <p>This is the glaſſe of helth. A great Treaſure for pore men, neceſſary and nedefull for euery per<g ref="char:EOLunhyphen"/>ſon to loke in, y<hi rend="sup">t</hi> wyll kepe theyr body from ſyckeneſſes, and dyſeaſes: and it ſheweth how the planettes reygne euery houre of the daye &amp; the nyght, with the na<g ref="char:EOLhyphen"/>tures &amp; expoſicions of the .xii. ſyg<g ref="char:EOLhyphen"/>nes, deuyded by the .xii. Mone<g ref="char:EOLhyphen"/>thes of the yere. And after foloweth of all the euyll and daungerous dayes of the yere. And ſheweth the reme<g ref="char:EOLhyphen"/>dyes, for dyuers infyrmyties and dyſeaſes, that hurteth the body of man.</p>
+            <figure/>
+            <p>¶ Theſe ben the .iii. Peryllous mondayes in the yere to let blode or to take a<g ref="char:EOLunhyphen"/>ny medicin or purgaci<g ref="char:EOLhyphen"/>on, y<hi rend="sup">t</hi> is for to ſay. The fyrſt Mon<g ref="char:EOLhyphen"/>daye of Au<g ref="char:EOLhyphen"/>guſt, y<hi rend="sup">e</hi> ſeco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de is the laſt Monday of Apryll, and the thyrd is the laſt Mondaye of Decembre.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:180848:2"/>
+            <head>¶ The Prologue of the Auctour.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Do you well to wytte, that this Boke profyteth greatly to euery Surgyon, for to knowe in what ſygne, or what degree of the ſyg<g ref="char:EOLhyphen"/>ne the ſonne and the Moone ſyt<g ref="char:EOLhyphen"/>teth euerye daye / In any of the .xii. ſygnes / And not onely it is profytable to Surgyons, but alſo to Pheſycyons, and Barboures, and to all that vſe to gyue medycynes, or Laxaty<g ref="char:EOLunhyphen"/>ues, or to vſe any Paſſyons, or cuttynge, or Lettynge of Blode / For as the ſonne paſſeth thoroughe all the .xii. ſygnes, by the ſpace of a yere, abydynge in a ſygne .xxx. dayes / ryghte ſo doth the Moone paſſe thoroughe all the .xii ſygnes, that in .xxx. dayes abydynge in a ſyg<g ref="char:EOLunhyphen"/>ne .lx. houres, and as the Moone amonge all planettes is nexte the Earth in courſe. So he hath moſt effecte of workynge, in theſe earthly thynges, after the dyſpoſycion of the Nature of the ſygnes that he hath his courſe in? And therfore it is full good and neceſſary truely to knowe the ſtate, the courſe, &amp; the nature of the Moone. For therby a man may knowe, whan it is good to begyn many dyuers thynges, &amp; whan it is not good / And alſo what wether moſte lykely is to falle, after the nature of the ſygnes, whether drye, or moyſte, hote, or colde
+<pb facs="tcp:180848:2" rendition="simple:additions"/> there ſhall folowe after the Nature of the ſyg<g ref="char:EOLhyphen"/>ne that he is in / In dyuers coniunctions of Planettes, that is ioyned therwith / And ther<g ref="char:EOLhyphen"/>fore naturally in order, I purpoſe me to decla<g ref="char:EOLunhyphen"/>re, ſhortly in the thyrde Chapiter, the nature &amp; the ſtate of euery ſygne that he paſſeth by.</p>
+            <p>Thus endeth the Porlogue.</p>
+         </div>
+         <div type="table_of_contents">
+            <head>¶ And here foloweth the Table.</head>
+            <list>
+               <item>THe fyrſt chapiter of this Boke, ſheweth of the .xii. dayes of the weke, with theyr Planettes. Capitulum. primum.</item>
+               <item>¶ And howe the Planettes reygne, in euerye houre of the day &amp; of the nyght. And the fyrſt is the houres of the Sonday Capi. 2.</item>
+               <item>¶ The natures and expoſycyons of the .xii. Sygnes, deuyded by the .xii. monethes of the yeare Capitulum. 3.</item>
+               <item>¶ And after foloweth the euyll and peryllous dayes of the yeare Cap, 4,</item>
+               <item>¶ And fyrſt y<hi rend="sup">•</hi> remedy for the peſtilence. ca. 5.</item>
+               <item>¶ For to ſpourge the heade Cap, 6,</item>
+               <item>Alſo for to ſpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tge the heade Cap, 7,</item>
+               <item>¶ For the heade ache Cap, 8,</item>
+               <item>¶ For the akynge of the heade Cap, 9.</item>
+               <item>¶ For the toth ache Cap, 10,</item>
+               <item>¶ For the ache of a holowe toth Ca, 11,</item>
+               <pb facs="tcp:180848:3"/>
+               <item>¶ Alſo for the toth ache, Cap, xii,</item>
+               <item>¶ Alſo for the toth ache, Cap, xiii,</item>
+               <item>¶ Alſo yet for the toth ache, Cap. xiiii,</item>
+               <item>¶ For ſtenche in the mouth, Ca, xv,</item>
+               <item>¶ For a ſtynkynge breth, Cap, xvi,</item>
+               <item>¶ For ache &amp; wormes in the eares, ca, xvii.</item>
+               <item>A precyous water for poyſon, and ſpecyallye agaynſt the peſtylence, Cap, xviii,</item>
+               <item>¶ For runnynge eyen, Cap, xix,</item>
+               <item>¶ For red Blered eyen, Cap, xx,</item>
+               <item>For eyen that be daſuited or dryke, Ca, xxi,</item>
+               <item>¶ A precyous water for the ſyght of the eyen, Cap. xxii.</item>
+               <item>¶ For the pynne, and the webbe in the eyen, Cap. xxiii.</item>
+               <item>¶ For all euylles in the eyen, Ca, xxiiii,</item>
+               <item>¶ For boylynge in the eyen, Cap, xxv,</item>
+               <item>¶ For a ſtynkynge breth, Cap, xxvi,</item>
+               <item>¶ For a hote ſwollen ſtomacke, Cap, xxvii,</item>
+               <item>¶ For the ſtomacke that aketh, that commeth of colde, Cap, xxviii,</item>
+               <item>¶ For to forſe the ſtomacke, cap, xxix,</item>
+               <item>¶ For the Stomacke, and the Belly that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>keth, cap, xxx,</item>
+               <item>For a man that is ſycke, in the ſtomacke or in the belly, or at the harte, or hed, or were bytten with any venomus beeſt, or poyſoned. ca. xxxi.</item>
+               <item>¶ For ryſyng vnder the ſtomacke. ca. xxxii.</item>
+               <pb facs="tcp:180848:3" rendition="simple:additions"/>
+               <item>¶ A good playſter for the ryſynge vnder the ſtomacke, Cap, xxxiii,</item>
+               <item>¶ For he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in the ſtomacke, cap, xxxiiii,</item>
+               <item>¶ For bren<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynge in the ſtomacke, ca, xxxv,</item>
+               <item>¶ For to auoyde flewe out of the ſtomacke &amp; alſo out of the heade cap, xxxvi.</item>
+               <item>Fo all euylles in the ſtomacke ca, xxxvii.</item>
+               <item>For a dyſeaſe at the harte cap, xxxviii,</item>
+               <item>For weaknes of the harte cap, xxxix.</item>
+               <item>For fayntnes of the harte Cap, xl.</item>
+               <item>For the breeſt that is incombred ca. xli</item>
+               <item>¶ For a man woman or chylde that is broken in the belly cap, xlii.</item>
+               <item>¶ A playſter to knyt hym Cap. xliii.</item>
+               <item>¶ For the playſter in May Cap. xliiii.</item>
+               <item>¶ For to breke wynde in the belly Ca. xlv.</item>
+               <item>¶ For a ſwollen wombe Cap. xlvi.</item>
+               <item>¶ For akynge of the wombe Cap xlvii</item>
+               <item>For the harte brennynge Cap xlviii,</item>
+               <item>For ſore ſydes within forth cap. xlix,</item>
+               <item>Eontra telan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; maculam in oculo ca, 50,</item>
+               <item>For a womans pap that is ſore cap, 51.</item>
+               <item>¶ For the lyuer that is corrupted and waſted Capitulum, 52,</item>
+               <item>¶ For heate in the lyuer Cap, 53,</item>
+               <item>¶ Alſo for heate in the lyuer of a man that his Coloure is yelowe Cap, 54,</item>
+               <item>For a mans breeſt that is encombred Ca, 55.</item>
+               <pb facs="tcp:180848:4"/>
+               <item>¶ For a man that hath wormes in his belly and his body be lene, cap, lvi,</item>
+               <item>¶ For the breſt and the lunges, cap, lvii,</item>
+               <item>¶ For to auoyde &amp; deſtroye flewme, ca, lviii,</item>
+               <item>¶ For the ſtone, cap, lix,</item>
+               <item>Another for the ſtone, capi, lx,</item>
+               <item>¶ For the colyke, ſtrangury &amp; the ſtone ca, lxi,</item>
+               <item>¶ For a man that is lepre, and it take in his leg<g ref="char:EOLunhyphen"/>ges, and go vpwarde, cap, lxii,</item>
+               <item>¶ For a dertre in a mans fleſſhe, cap, lxiii,</item>
+               <item>¶ For a ſauce flew<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e vyſage, cap, lxiiii,</item>
+               <item>¶ For hym y<hi rend="sup">•</hi> can not holde his water, ca, lxv,</item>
+               <item>Another for the ſame, cap, lxvi,</item>
+               <item>¶ For to deſtroy flewme, cap, lxvii,</item>
+               <item>¶ For a wombe that is harde, ca, lxviii,</item>
+               <item>¶ For the blody mencion, cap, lxix,</item>
+               <item>¶ For a mans ſtones that be ſwollen, ca, lxx,</item>
+               <item>¶ For to make one ſklender, cap, lxxi,</item>
+               <item>¶ For hym that lacketh wynde, ca, lxxii,</item>
+               <item>¶ For hym that is coſtyfe. cap. lxxiii.</item>
+               <item>¶ For a wycked blaſt in the vyfage, ca, lxxiiii,</item>
+               <item>¶ For the ſhyngles, capi, lxxv.</item>
+               <item>¶ For the kowghe, cap, lxxvi.</item>
+               <item>¶ For the pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us kowghe, cap, lxxvii</item>
+               <item>Alſo for the chynke kowghe, cap, lxxviii,</item>
+               <item>¶ For the Itche, capi, lxxix,</item>
+               <item>¶ For to drawe a Byle, from one place to ano<g ref="char:EOLhyphen"/>ther. capitul. lxxx.</item>
+               <pb facs="tcp:180848:4" rendition="simple:additions"/>
+               <item>¶ For hym that pyſſeth blode, ca. lxxxi.</item>
+               <item>¶ For hym that hath loſt his mynde, ca. lxxxii.</item>
+               <item>Another for the ſame, cap. lxxxiii.</item>
+               <item>¶ For hym that hath the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſy, ca. lxxxiiii.</item>
+               <item>yf one vomyſſhe to moche, cap. lxxxv.</item>
+               <item>¶ For a dyſeaſe in the eares, cap. lxxxvi.</item>
+               <item>¶ For a man that hath his eares ſowne within, capitul. lxxxvii.</item>
+               <item>¶ For ſynewes that ſhrynke after that they ha<g ref="char:EOLhyphen"/>ue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en hurt, and heled agayne, cap. lxxxviii.</item>
+               <item>¶ For to ſtaunche blode, cap. lxxxix.</item>
+               <item>Alſo to ſtaunche blode, cap. lxxxx.</item>
+               <item>¶ For an impoſtume, cap. lxxxxi.</item>
+               <item>¶ For ſpyttyng of blod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, cap. lxxxxii.</item>
+               <item>¶ For wylde fyre, that is called the fyre of hell, capitul. lxxxxiii.</item>
+               <item>¶ For bytynge of a mad dogge, ca. lxxxxiiii.</item>
+               <item>¶ For to do away a wen, cap. lxxxxv.</item>
+               <item>To breke a felon in a nyght, cap. lxxxxvi.</item>
+               <item>¶ For the Meg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ym, cap. lxxxxvii.</item>
+               <item>¶ For the morfewe, cap. lxxxxviii.</item>
+               <item>¶ For to ſtop the flyxe, cap. lxxxxix.</item>
+               <item>¶ For the Canker, wylde fyre, &amp; Ignis ſancti Antonii, capi. c.</item>
+               <item>¶ For to make heare growe, cap. c. i.</item>
+               <item>¶ For to do away heare, cap. c. ii.</item>
+               <item>¶ For a ſcalde heade, cap. c. iii.</item>
+               <item>¶ For the yelowe Iaundes, cap. c. iiii.</item>
+               <pb facs="tcp:180848:5"/>
+               <item>¶ For the blacke Iaundes capitul. c. v.</item>
+               <item>¶ for wormes and hete in the handes ca. c. vi.</item>
+               <item>¶ for the Gowte, cap. c. vii.</item>
+               <item>¶ for ſore knees that doth ſwel &amp; ake ca. c. viii.</item>
+               <item>¶ for the fallyn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e euyll, cap. c. ix.</item>
+               <item>Alſo for brennynge or ſcaldynge, ca. c. x.</item>
+               <item>Alſo for brennynge with fyre, ca. c. xi.</item>
+               <item>To hele hurtes and woundes, cap. c. xii.</item>
+               <item>To make a ſalue to drawe &amp; to hele ca. c. xiii.</item>
+               <item>¶ for ſtyngyng of Edders &amp; ſnakes. ca. c. xiiii.</item>
+               <item>¶ for hym that can not ſlepe, cap. c. xv.</item>
+               <item>¶ for the Palſey, cap. c. xvi.</item>
+               <item>A good drynke for the poxe, ca. c. xviii.</item>
+               <item>¶ For the gowte or the ſwellyng of Ioyntes, knobbes, and knorres, that commeth of Ache of the poxe, capitul. c. xix.</item>
+               <item>¶ for the crampe, cap. c. xx.</item>
+               <item>¶ for ſpottes of the morfewe, cap. c. xxi.</item>
+               <item>To put away the morfewe, ca. c. xxii.</item>
+               <item>¶ For a Chylde that is Iowe fall, or Molde fall, or Roſe fall, cap. c. xxiii.</item>
+               <item>¶ for the Mother, cap. c. xxiiii.</item>
+               <item>¶ for all feuer Agues, and for yonge chyldren ſuckynge the breeſt, cap. c. xxv.</item>
+               <item>¶ for to deſtroy poyſon, cap. c. xxvi.</item>
+               <item>¶ For the Ague infected with the Peſtilence, Capitulum. c. xxvii.</item>
+            </list>
+            <trailer>¶ Finis Tabula.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180848:5" rendition="simple:additions"/>
+            <div n="1" type="chapter">
+               <head>¶ And hereafter foloweth the .vii. dayes of the weke, with the Planettes. Capitulo. Pri.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N theſe .vii. Planettes you ought to know y<hi rend="sup">•</hi> the So<g ref="char:cmbAbbrStroke">̄</g>day hath his doynges vnder y<hi rend="sup">•</hi> So<g ref="char:cmbAbbrStroke">̄</g>ne.</p>
+               <p>¶ The Monday vnder y<hi rend="sup">•</hi> Moone.</p>
+               <p>¶ Tueſday vnder Mars.</p>
+               <p>¶ The wednyſdaye vnder Mercury.</p>
+               <p>¶ The Thurſdaye vnder Iupiter.</p>
+               <p>¶ The Frydaye vnder Venus.</p>
+               <p>¶ The Saterdaye vnder Saturne.</p>
+               <p>¶ Note well, that all the trewe acte and opera<g ref="char:EOLhyphen"/>cyon ought to be made vnder his Planette, and is beſt and it be made on his propre daye of the Planette, and the houre propre exempte.</p>
+               <p>¶ Vnder Saturne is the lyfe edyfyce, doctry<g ref="char:EOLhyphen"/>ne and mutacyon comprynſe.</p>
+               <p>¶ Vnder Iupiter obtayne honoure, rycheſſe, and gay coſtly garmentes.</p>
+               <p>¶ Vnder Mars, batayle, pryſon, maryage, &amp; enmyte. ☞ ☞ <g ref="char:leaf">❧</g>
+               </p>
+               <p>¶ Vnder the Sonne, eſperaunce, gayne, fortu<g ref="char:EOLunhyphen"/>ne, and herytage.</p>
+               <p>¶ Vnder Venus, loue, ſocyete, lyfe louynge, and walkynge abrode.</p>
+               <p>¶ Vnder Mercury, ſyckeneſſe, myſerye, dette, and fearefulnes. ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+               <pb facs="tcp:180848:6"/>
+               <p>¶ Vnder the Moone, ſlouthe, euyll thoughtes and thefte. <g ref="char:cross">✚</g> ☞ ☞ ☞ ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>¶ Here foloweth howe the Planettes reygne in euery houre of the daye, and of the nyght. And the fyrſte is the houres of the Son<g ref="char:EOLhyphen"/>daye. Cap<g ref="char:cmbAbbrStroke">̄</g> .ii.</head>
+               <p>¶ The houres of the Sonday.</p>
+               <p>THe fyrſte houre of the ſondaye reygneth Sol, the ſeconde Venus, the thyrde Mer<g ref="char:EOLunhyphen"/>cury, the fourth Luna, the fyfth Saturne, the ſyxt Iupiter, the ſeuenth Mars, the eyght Sol the nynthe Venus, the tenthe Mercury, the le<g ref="char:EOLhyphen"/>uenth Luna, the twelfeth Saturne.</p>
+               <p>¶ The houres of the Sonday nyght.</p>
+               <p>¶ The fyrſte houre is iupiter, the .ii. mars, the .iii. ſol, the .iiii. venus, the .v. mercury, the .vi. lu<g ref="char:EOLhyphen"/>na, the .vii. faturne, the .viii. iupiter, the .ix. mars the .x. ſol, the .xi. venus, the .xii. mercury.</p>
+               <p>¶ The houres of the Monday.</p>
+               <p>¶ The fyrſte houre luna, the .ii. ſaturne, the .iii. iupiter, the .iiii. mars, the .v. ſol, the .vi. venus, the .vii. mercury, the .viii. luna, the .ix. ſaturne, the .x. iupiter, the .xi. mars, the .xii. ſol.</p>
+               <p>¶ The houres of the monday nyght.</p>
+               <p>¶ The fyrſte venus, the .ii. mercury, the .iii. lu<g ref="char:EOLhyphen"/>na,
+<pb facs="tcp:180848:6" rendition="simple:additions"/> the .iiii. ſaturne, the .v. iupiter, the .vi. mars, the .vii. ſol, the .viii. venus, the .ix. mercury, the .x. luna, the .xi. ſaturne, the .xii. iupiter.</p>
+               <p>¶ The houres of the tueſday.</p>
+               <p>¶ The fyrſt mars, the .ii. ſol, the .iii. venus, the .iiii. mercury, the .v. luna, the .vi. ſaturne, the .vii. iupiter, the .viii. mars. the .ix. ſol, the .x. venus, the .xi. mercury, the .xii. luna.</p>
+               <p>¶ The houres of the tueſday nyght.</p>
+               <p>¶ The fyrſt ſaturne, the .ii. iupiter, y<hi rend="sup">•</hi> .iii. mars. the .iiii. ſol. the .v. venus, the .vi. mercury, the .vii. luna. the .viii. ſaturne, the .ix. iupiter, y<hi rend="sup">•</hi> .x. mars, the .xi. ſol, the .xii. venus.</p>
+               <p>¶ The houres of the wednyſday.</p>
+               <p>¶ The fyrſte mercury, the .ii. luna, the .iii. ſatur<g ref="char:EOLunhyphen"/>ne, the .iiii. iupiter, the .v. mars, the .vi. ſol, the .vii. venus, the .viii. mercury, the .ix. luna, the .x. ſaturne, the .xi. iupiter, the .xii. mars.</p>
+               <p>¶ The houres of the wednyſday nyght.</p>
+               <p>¶ The fyrſte ſol, the .ii. venus, the .iii. mercury, the .iiii. luna, the .v. ſaturne, the .vi. iupiter, the .vii. mars, the .viii. ſol, the .ix. venus, the .x. mercu<g ref="char:EOLunhyphen"/>ry, the .xi. luna, the .xii. ſaturne.</p>
+               <p>¶ The houres of the thurſday.</p>
+               <p>¶ The fyrſte iupiter, the .ii. mars, the .iii. ſol. the iiii. venus, the .v. mercury, the .vi. luna, the .vii. ſaturne, the .viii. iupiter, the .ix. mars, the .x. ſol, the .xi. venus, the .xii. mercury.</p>
+               <pb facs="tcp:180848:7"/>
+               <p>¶ The houres of the thurſday nyght.</p>
+               <p>¶ The fyrſte luna, the .ii. ſaturne, the .iii. iupi<g ref="char:EOLhyphen"/>ter, the .iiii. mars, the .v. ſol, the .vi. venus, the .vii. mercury, the .viii. luna, the .ix. ſaturne, the x. iupiter, the .xi. mars, the .xii. ſol.</p>
+               <p>¶ The houres of the fryday.</p>
+               <p>¶ The fyrſte venus, the .ii. mercury, the .iii. lu<g ref="char:EOLhyphen"/>na, the .iiii. ſaturne, the .v. iupiter, the .vi. mars, the .vii. ſol, the .viii. venus, the .ix. mercury, the .x luna, the .xi. ſaturne, the .xii. iupiter.</p>
+               <p>¶ The houres of the fryday nyght.</p>
+               <p>¶ The fyrſte mars, the .ii. ſol, the .iii. venus, the .iiii. mercury, the .v. luna, the .vi ſaturne, the .vii. iupiret, the .viii. mars, the .ix. ſol, the .x. ve<g ref="char:EOLhyphen"/>nus, the .xi. mercury, the .xii. luna.</p>
+               <p>¶ The houres of the ſaturday.</p>
+               <p>¶ The fyrſte ſaturne, y<hi rend="sup">e</hi> .ii. iupiter, the .iii. mars the .iiii. ſol, the .v. venus, the .vi. mercury, the .vii. luna, the .viii<g ref="char:punc">▪</g> ſaturne, the .ix. iupiter, y<hi rend="sup">•</hi> .x. mars, the .xi. ſol, the .xii. venus.</p>
+               <p>¶ The houres of the ſaturday nyght.</p>
+               <p>¶ The fyrſte mercury, the .ii. luna, the .iii. ſatur<g ref="char:EOLunhyphen"/>ne, the .iiii. iupiter, y<hi rend="sup">e</hi> .v. mars, the .vi. ſol, the .vii. venus, the .viii. mercury, the .ix. luna, the .x. ſa<g ref="char:EOLhyphen"/>turne, the .xi. iupiter, the .xii. mars.</p>
+               <p>¶ Note well.</p>
+               <p>¶ Note that Iupiter and Venus ben good, Saturne and Mars euyll, Sol and Luna in<g ref="char:EOLhyphen"/>dyfferent,
+<pb facs="tcp:180848:7" rendition="simple:additions"/> Mercury is good with them that be good, and euyll with them that be euyll.</p>
+               <p>¶ Alſo note well that the houres of the Pla<g ref="char:EOLhyphen"/>nettes ben dyfferent to theym of the Clockes, for the houres of the Clockes be egall alwayes of .lx. mynutes, but they of the planettes whan the day and the nyght ben egall, that the So<g ref="char:cmbAbbrStroke">̄</g>ne is in one of the Equinocces they be egall, but as ſoone the dayes longeth or ſhorteth, ſo doth the naturall houres, by this it is conuenyent al<g ref="char:EOLunhyphen"/>waye, for the day to haue .xii. temporall houres and the nyght .xii. temporal houres? And whan the dayes ben longe, and the houres longe, and the dayes ſhorte, and the houres ſhorte, in lyke wyſe is the nyght. And neuertheleſſe an houre of the daye, and an houre of the nyght, bothe togyther haue .xl. mynutes, as for two houres Artyfycyales, that the one leuyth, the other ta<g ref="char:EOLhyphen"/>keth. And than take we our Planettes from the Sonne ryſyng, and not before vnto the ſonne goynge downe, and than all the remenaunt is nyghte. And ſo aboute the moneth of Decem<g ref="char:EOLhyphen"/>bre the dayes haue but .viii. houres Artyfycya<g ref="char:EOLhyphen"/>les of the Clockes, and they haue .xii. tempora<g ref="char:EOLhyphen"/>les, than lette the .viii. houres Artyfycyalles be deuyded in egall partyes, and it ſhall be .xii. ty<g ref="char:EOLhyphen"/>mes .lx. mynutes, and euery partye ſhall be a temporall houre, that ſhall be of .xl. mynutes
+<pb facs="tcp:180848:8"/> and no mo. Thus in Decembre the temporall houres of the daye, haue but .xl. mynutes, but the houres of the nyghte haue .lxxx. mynutes.</p>
+               <p>For in that tyme the nyghtes haue .xvi. houres Arty<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ycyalles, yf they ben deuyded in .xii. par<g ref="char:EOLhyphen"/>tyes ben .lxxx. mynutes, For euery temporall houre of the nyght in Decembre haue .lxxx. my<g ref="char:EOLunhyphen"/>nutes &amp; .xl. For an houre of the day ben .vi. ſcore mynutes in two temporall houres, as many in two houres Artyfycyalles, that ben eche of .xl. mynutes. In the moneth of Iune is the con<g ref="char:EOLhyphen"/>trarye. In Marche and in Septembre all hou<g ref="char:EOLhyphen"/>res ben egall: as is the dayes in other monethes by egall porcyon. ☞ ☞ <g ref="char:leaf">❧</g>
+               </p>
+               <trailer>¶ Thus endeth the .vii. Planettes, vpon the .vii. dayes in the weke.</trailer>
+            </div>
+            <div n="3" type="chapter">
+               <head>¶ And hereafter foloweth the natures, and expoſycions of the .xii. ſyg<g ref="char:EOLhyphen"/>nes deuyded by the .xii. Monthes of the yere. Capitulo .iii.</head>
+               <div n="March" type="month">
+                  <head>¶ Marche hath the ſygne of the Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. And is indyfferent for takynge of purgacyon. And is very good to let blode.</head>
+                  <pb facs="tcp:180848:8" rendition="simple:additions"/>
+                  <p>
+                     <seg rend="decorInit">A</seg>Ries is a ſygne mouable hote and drye, coleryke, nature of the fyre, and hathe lordſhyp in mannes heade &amp; the face, and the partyes longynge to the heade, whan the Moone is in that ſygne, beware of cuttynge in the heade or in the face, or in any vayne that longeth to the heade. Alſo it is peryllous in the begynnyng of Aries to take any heade ache, or any hurtynge in the heade, for it were token of longe durynge or els of death, but it is not ſo peryllous in the ende of it, and this ſygne is mouable oryentall and of maſculyne kynde, than is good to wor<g ref="char:EOLhyphen"/>ke all thynges that is wroughte with fyre, and it is good to take vyages towarde the Eeſt, and it is good to let blode on the arme, and to bathe the, and to ſowe ſedes, and to make matrymo<g ref="char:EOLhyphen"/>nyes, and to begyn all good werkes that thou wolde ſoone ende, and is euyll to do thynges, whiche thou woldeſt haue longe laſte, for aſmo<g ref="char:EOLunhyphen"/>che as the Ram is a beeſt that roungeth, and ca<g ref="char:EOLhyphen"/>ſteth vp agayne the meate that he eateth tofore. Therfore than there ſhulde no medycyne, nor no paſſyon be taken inwarde, whyle the moone is in that ſygne, for all naturall medycynes, and paſſyons receyued in that tyme, men ſhul<g ref="char:EOLhyphen"/>de caſte them vp agayne, and ſo it falleth in all
+<pb facs="tcp:180848:9"/> the ſygnes that ben roungynge, as Aryes, and Taurus, and Caprycorne, and the laſte parte of Sagittarye. In all theſe there ſhulde no paſ<g ref="char:EOLunhyphen"/>ſyone be gyuen for drede of caſtynge vp agay<g ref="char:EOLunhyphen"/>ne, for this ſygne aryſeth oute of the Oryent, and cauſeth the tyme to be hote and drye.</p>
+                  <p>¶ The man that is borne vnder the ſygue of Aries, by kynde of complexyon is Coleryke, and ſhall be wytty and wylye, ſlye and dyſcey<g ref="char:EOLhyphen"/>uable, ſmall of bones, yelowe of coloure, and kynde of herte. The ſonne entreth in the ſygne of Aries: the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Marche, and dwel<g ref="char:EOLhyphen"/>leth therin vnto the .xvi. kalendas of Apryll.</p>
+                  <p>¶ And in this moneth of Marche i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> .iii. peryl<g ref="char:EOLhyphen"/>lous dayes to take any ſyckeneſſe vpon, that is to ſaye, the .xv. xvi. and .xix.</p>
+               </div>
+               <div n="April" type="month">
+                  <head>¶ Apryll hath the ſygne of the Bulle, And is euyll for to take purgacyon, And alſo is euyll to let blode.</head>
+                  <p>THe Moone beynge in Taurus, that is the ſygne of the Bulle, the whiche Syg<g ref="char:EOLhyphen"/>ne reygneth in the necke and the throte, it is than peryllous to be ventuſed in the necke, or to catche or take ſyckenes in the throte, and mo<g ref="char:EOLunhyphen"/>che more peryllous in the begynnynge than is in the ende, this ſygne is ſtedfaſt Meridyonall
+<pb facs="tcp:180848:9" rendition="simple:additions"/> is of the Southe partie, he is colde &amp; drye erth<g ref="char:EOLhyphen"/>ly, and of femynyne kynde / and melancoly of complexion, it is than good to ſowe ſedes, to plante trees &amp; vynes: for they ſhal rede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y growe and it is good to buylde howſonge, and to w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d a wyfe, and euery thynge to do that thou wol<g ref="char:EOLhyphen"/>deſt haue longe to endure, and ſtably to abyde It is euyll to begyn batayle or to fyght. For it cauſeth the tyme to be colde &amp; dry, and the wyn<g ref="char:EOLunhyphen"/>de to haue his courſe nygh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the erthe, and the ſkyes to flye abrode by the erthe. <g ref="char:cross">✚</g> ☞</p>
+                  <p>¶ The man that is borne vnder this ſygne, is by kynde of complexion Melancoly vnſtable &amp; vnttewe, whyte lyuered, &amp; ſcarce of his purſe.</p>
+                  <p>The ſonne entreth in y<hi rend="sup">e</hi> ſygne of Taurus, the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Apryll, and dwelleth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of May.</p>
+                  <p>¶ And in this monthe of Apryll, is .ii. peryl<g ref="char:EOLhyphen"/>lous dayes to take any maner of ſyckenes on, that is to ſaye the .xvi. and the .xxi.</p>
+               </div>
+               <div n="May" type="month">
+                  <head>¶ May hath the ſygne of two Twynnes. And is indyfferent to take purgacyon. And is euyll to let blode.</head>
+                  <p>WHan the moone is in Gemyny, that is the ſygne of .ii. Twynnes / or .ii. Chyl<g ref="char:EOLhyphen"/>dren of one byrthe, the whiche ſygne reygneth
+<pb facs="tcp:180848:10"/> in the armes and handes of man. This ſygne is dowble bodyed and Occidentall, that is of y<hi rend="sup">e</hi> weſt partie, and is Sanguyne of complexion, hote and moyſte after the eyre. In that tyme beware of cuttynge in the ſhulders, armes, and handes, nor in that tyme open no vayne in tho places. It is good that tyme to treate of frend<g ref="char:EOLunhyphen"/>ſhyp, &amp; whan the moone is in the ſygne of Ge<g ref="char:EOLunhyphen"/>myny, beware of lettyng of blode, for it is euyl and ſpecyally in the blumes, for Gemyny go<g ref="char:EOLhyphen"/>uerneth them, And yf one take the ſyckenes in a howſe and dye, all the other be in great daun<g ref="char:EOLhyphen"/>ger to dye of the ſame. ☞ <g ref="char:leaf">❧</g> 
+                     <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ The man tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is borne whyle the moone is vnder the lordſhyp of this ſygne, he ſhal by way of kynde be very wyſe, preuy, and true, he ſhall haue thre wyues: &amp; he ſhal trauayle myghty faſt to purchaſe worſhype. The ſon<g ref="char:cmbAbbrStroke">̄</g>e entreth in the ſygne of Gemyny, the .xv. kalen<g ref="char:cmbAbbrStroke">̄</g>. of May, and dwelleth therin tyll the .xvi. kalen<g ref="char:cmbAbbrStroke">̄</g>. of Iune.</p>
+                  <p>¶ And in the monthe of May is .iii. daunge<g ref="char:EOLhyphen"/>rous dayes, that is to ſay y<hi rend="sup">e</hi> .vii. the .xv. &amp; the .xx.</p>
+               </div>
+               <div n="June" type="month">
+                  <head>¶ Iune hath the ſygne of the Creuy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, And is good for to take purgacyon. And is indyfferent to let blode.</head>
+                  <p>CAncer is a ſygne mouable, colde moyſte
+<pb facs="tcp:180848:10" rendition="simple:additions"/> flumatyke, and watery, and hathe of mannes body the breſt, and the ſtomacke, the ſplen, and the tybbes, whan the moone is in this ſygne, it is good to begyn away by water, and is metely good to take medycynes? but beware to wedde any mayde, whan the ſygne is in Cancer. And yf any man take ſyckenes in any tyme whyle the moone is in the ſygne of Cancer, it is great fortune yf he dye not. For it is peryllous bothe in the begynnynge and in the ende, this ſygne is Septemtryonall, that is of the Northe par<g ref="char:EOLhyphen"/>tye. Alſo it is euyll to buylde howſynge, or to ſette trees, or to begyn any werke that ſhall laſt and endure longe. ☞ ☞ <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ The man that is borne whyle that y<hi rend="sup">e</hi> moone entreth in this ſygne, he ſhall be Femynyne of face, melancolyous, feynt herted and whyte of ſkynne, and he ſhall loue a woman whiche ſhall greue hym, &amp; his deſtenye ſhall be harde in his youthe, but whan he is paſte .xxx. yere, he ſhall haue a maladye in the raynes, and he eſcape, he ſhall lyue by kynde .C. yere. The ſonne en<g ref="char:EOLhyphen"/>treth in the ſygne of Cancer, the .xv. Kalenda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Iune, and dwelleth therin tyll the .xvi. Ka<g ref="char:EOLhyphen"/>lendar of Iuly. ☞ ☞ <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ And in this monthe of Iune is .ii. daunge<g ref="char:EOLhyphen"/>rous dayes to take ſyckeneſſe vpon, that is to ſay, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> iii. and the .vii.</p>
+               </div>
+               <div n="July" type="month">
+                  <pb facs="tcp:180848:11"/>
+                  <head>¶ Iuly hathe the ſygne of the Lyon. And is euyll to take purgacyon. And very euyll to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </seg>Or Leo is a ſygne ſtedfaſte Oryentall hote and drye Co<g ref="char:EOLhyphen"/>loryke, nature of fyre, and of maſculyne kynde, and hath of mannes body the ſydes, &amp; the backe, ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wes, bones, &amp; gryſtels, beware whyle the moone reygneth there, of ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſyng, or cut<g ref="char:EOLunhyphen"/>tynge, or harme catchange in tho places, for it is very daungerous in the ende of Leo to take ſyckenes, more than in y<hi rend="sup">e</hi> behynnynge, for than he maye releue by good gouernaunce, and it is euyll to gyue medycyne to the herte, or ſtomac<g ref="char:EOLunhyphen"/>ke, and the vaynes to touche with yron.</p>
+                  <p>¶ A man that is borne whyle y<hi rend="sup">e</hi> moone entreth in this ſygne of Leo, by kynde he ſhal be holden eaſye, he ſhall take a wyfe a heady ſtronge wo<g ref="char:EOLhyphen"/>man, he ſhall be loued as the Lyon amonge be<g ref="char:EOLhyphen"/>aſtes, and he ſhall haue great power amonge ſtronge men. The ſonne entreth in this ſygne the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Iuly, and dwelleth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Auguſt.</p>
+                  <p>¶ And in this monthe of Iuly is. ii. daunge<g ref="char:EOLhyphen"/>rous dayes to take any ſyckenes vpon, that is to ſay, the. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. and the .xx.</p>
+               </div>
+               <div n="August" type="month">
+                  <pb facs="tcp:180848:11" rendition="simple:additions"/>
+                  <head>¶ Auguſt hath the ſygne of a Virgyn. And is euyll for to take purgacion. And is indyfferent to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">V</seg>Irgo is a Sygne dowble bodyed Merydyonall, that is of y<hi rend="sup">e</hi> South partye colde and drye, Melancoly of complexion, nature of the erthe and of Femynyne kynde, &amp; hathe of mannes body the wombe, medryfe, &amp; guttes the lyuer galle, and mylte. But chefelye in the lym<g ref="char:cmbAbbrStroke">̄</g>es byneth the medryfe, than beware of brea<g ref="char:EOLunhyphen"/>kynge, or cuttynge on the belye, or preuye pla<g ref="char:EOLhyphen"/>ces withinforth. Alſo it is peryllous for a man to take any ſyckenes in the begynnyng therof, but not ſo peryllous in the ende, but rather to<g ref="char:EOLhyphen"/>ken of helthe, it is not good to wedde a mayde for ſhe ſhal be barayne, but it is good to wedde a wydowe. ¶ The man that is borne vnder this ſygne, he ſhal be well loued, and a man of great pytie and wyſe, and lyue moche in eaſe, he ſhall be of good name amonge all maner of men, he ſhall haue worſhyp in his age, he ſhall haue a ſy<g ref="char:EOLhyphen"/>gne in the heade. The ſon<g ref="char:cmbAbbrStroke">̄</g>e entreth in the ſygne of Virgo the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Auguſt, and dwel<g ref="char:EOLhyphen"/>leth therin vnto the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Septembre.</p>
+                  <p>¶ And in this monthe of Auguſt is .ii. peryl<g ref="char:EOLhyphen"/>lous dayes to take any maner of ſyckenes on, that is to ſaye the .xix. and the .xx.</p>
+               </div>
+               <div n="September" type="month">
+                  <pb facs="tcp:180848:12"/>
+                  <head>¶ Septembre hath the ſygne of the Balaunce And is good for to take purgacyon. And is very good to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">L</seg>Ibra is a Sygne mouable hote &amp; moyſte Sanguinariu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and hathe the ouerparte of a man: and the ne<g ref="char:EOLunhyphen"/>der ende of a woman, that is to ſay the nauyll, the raynes, and the lowe partyes of the wombe, &amp; the ſhare, whan the moone is in Libra, it is good to let blode, &amp; is beſte to make medycynes for the nauyll, and to do all thynge that thou wolde haue broughte to the ende, and this ſygne is Occidentall ſan<g ref="char:EOLhyphen"/>guyne of complexion, and of maſculyne kynde and is good to begyn that y<hi rend="sup">•</hi> ſhall longe laſte, &amp; knowe well from the degre of Libra, to the de<g ref="char:EOLhyphen"/>gre of Scorpio, it is euyll to begyn dyuers thynges, for y<hi rend="sup">e</hi> moone is y<hi rend="sup">•</hi> tyme in the worſte.</p>
+                  <p>¶ The man that is borne vnder this ſygne, he ſhall be well beloued, and good ſhal neuer fayle hym, he ſhall haue a ſygne in the necke or in the ſhoulder bone, he ſhall be in great peryll tyll y<hi rend="sup">•</hi> he be .xxx yere olde, &amp; than ſhal he come to great worſhyp. The ſonne entreth in the ſygne of Libra the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Septembre, and dwel<g ref="char:EOLhyphen"/>leth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Octobre.</p>
+                  <p>¶ And in this monthe of Septembre is. ii. pe<g ref="char:EOLhyphen"/>ryllous
+<pb facs="tcp:180848:12" rendition="simple:additions"/> dayes to take any maner of ſyckeneſſe on, that is to ſaye the .vi. and the .vii.</p>
+               </div>
+               <div n="October" type="month">
+                  <head>¶ Octobre hath the ſygne of a Scorpyon. And is good for to take purgacyon. And is indyfferent to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>Corpio is a ſygne of a Ser<g ref="char:EOLhyphen"/>pent colde and moyſte, Flu<g ref="char:EOLhyphen"/>matyke nature of water Sep<g ref="char:EOLunhyphen"/>temtryonall, that is of the Northe partye, and hathe of mannes body the preuye me<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>bres and the bladder, and whan the moone is in this ſygne, it is good to gyue medycynes to y<hi rend="sup">e</hi> membres of man and woman, and to take laxa<g ref="char:EOLunhyphen"/>tyues, and to make all thynge that ſhall laſt lon<g ref="char:EOLunhyphen"/>ge, and it is good make a way by water.</p>
+                  <p>¶ The man that is borne vnder this ſygne, he ſhall loue well the company of women, and ha<g ref="char:EOLhyphen"/>ue other mennes herytages, he ſhall be melanco<g ref="char:EOLunhyphen"/>lyous, his wordes ſhall turne wel in age, he ſhal be in trauayle, and in the heade he ſhall haue a token or in the face, he may lyue by kynde .xl. ye<g ref="char:EOLunhyphen"/>res. The ſonne entreth in the ſygne of Scor<g ref="char:EOLhyphen"/>pio the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Octobre, &amp; dwelleth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Nouembre.</p>
+                  <p>¶ And in the monthe of Octobre is one peryl<g ref="char:EOLhyphen"/>lous daye, that is to ſay the .vi. daye.</p>
+               </div>
+               <div n="November" type="month">
+                  <pb facs="tcp:180848:13"/>
+                  <head>¶ Nouembre hath the ſygne of the Archer. And is good for to take purgacyon. And alſo is good to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg> Do you to wyt that Sagitta<g ref="char:EOLhyphen"/>rius is a ſygne of an Archer, &amp; is dowble bodyed hote and dry nature of the fyre, and is colo<g ref="char:EOLhyphen"/>ryke of complexion, &amp; of maſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulyne kynde Oryentall, that is of the Eeſt par<g ref="char:EOLunhyphen"/>tie, and this ſygne reygneth in the thyes &amp; lad<g ref="char:EOLhyphen"/>doges of a man, and beware of cuttyng of tho places, and than is good to let blode &amp; to trea<g ref="char:EOLhyphen"/>te of peace, and to wedde a wyfe, and to make all medycynes that is made with fyre.</p>
+                  <p>¶ The man that is borne vnder this Sygne, ſhall be haſty and bolde to do folye, and he ſhall haue a ſygne in the cheke, or in the ſhoulders, he ſhall be bytten of a dogge, he ſhall haue troble, and ſore iyen, he ſhall haue two wyues, &amp; y<hi rend="sup">e</hi> laſte ſhal begyle hym, &amp; he ſhall wexe ſycke at .xl. wyn<g ref="char:EOLunhyphen"/>ter, and he eſcape he ſhal lyue by way of kynde C. yeare. The ſonne entreth in this ſygne of Sagittarius the .xv. kalen<g ref="char:cmbAbbrStroke">̄</g>. of Nouembre, and dwelleth therin, tyll the .xvi. kalen<g ref="char:cmbAbbrStroke">̄</g>. of Dece<g ref="char:cmbAbbrStroke">̄</g>bre.</p>
+                  <p>¶ And in the monthe of Nouembre, is .ii. peryl<g ref="char:EOLunhyphen"/>lous dayes to take any maner of ſyckenes on, that is to ſaye the .xv. and the .xix.</p>
+               </div>
+               <div n="December" type="month">
+                  <pb facs="tcp:180848:13" rendition="simple:additions"/>
+                  <head>¶ Decembre hath the ſygne of the Gote. And is euyll to take purgacyon. And is euyll to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">C</seg>Apricornus is a ſygne moua<g ref="char:EOLhyphen"/>ble and vnſtedfaſt of the South partie endely colde and drye, me<g ref="char:EOLunhyphen"/>lancoly nature of the erath, and of femynyne kynde, and hathe of mannes body y<hi rend="sup">•</hi> knees, whan the Moone is in this ſygne, it is good to make medycynes to the knees, but beware of cuttyn<g ref="char:EOLunhyphen"/>ge or hurtynge therof, for dreade of towchinge the ſenowes &amp; vaynes: for it is peryllous whyle the moone reygneth there, and moche more greatter peryll in the ende, than is in the begyn<g ref="char:EOLunhyphen"/>nynge. ☞ ☞ ☞ <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ The man that is borne vnder this ſygne ſhal be wyſe, fayre, and haſty, and he ſhall haue a to<g ref="char:EOLunhyphen"/>ken in the heade or in the kne, he ſhall be melan<g ref="char:EOLhyphen"/>coly, &amp; he ſhall lyue by kynde. C. yeare, as Aſtro<g ref="char:EOLunhyphen"/>nomyers ſayth. The ſon<g ref="char:cmbAbbrStroke">̄</g>e entreth in the ſygne of Capricornus, the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Decembre, and dwelleth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of the moneth of Ianuary. ☞ ☞ <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ And in the moneth of Decembre is .vi. peryl<g ref="char:EOLunhyphen"/>lous dayes to take ſyckenes, or any dyſeaſe on, that is the .iii. vi. vii. ix. xv. and .xvi.</p>
+               </div>
+               <div n="January" type="month">
+                  <pb facs="tcp:180848:14"/>
+                  <head>¶ Ianuarye hath the ſygne of a man ſhedynge water. And is good to take purgacyon. And is indyfferent to let blode.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>Quarius is a Sygne ſtedfaſt Occydentall, that is of the weſt partye, hote and moyſte after the kynde of y<hi rend="sup">•</hi> eyre, and Sanguyne of complexion, &amp; hath of mannes body the ſhan<g ref="char:EOLunhyphen"/>kes vnto the ende of the ancles, and whan the moone is in that ſygne, it is good to ſet trees, &amp; to buylde, &amp; to wed, &amp; is euyl to take ſickenes in al the tymes whyle y<hi rend="sup">e</hi> moone reygneth there.</p>
+                  <p>¶ The man that is borne in y<hi rend="sup">e</hi> ſygne of Aqua<g ref="char:EOLunhyphen"/>rius ſhal be worſhypped, he ſhal be good &amp; true, and ſhal be welbeloued, and haue often hedache he ſhall haue a fall from ryches, but he ſhall be happye in the weſt conutree, and he ſhall be in peryl of water. The ſonne entreth in the ſygne of Aquarius the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Ianuary, &amp; dwel<g ref="char:EOLunhyphen"/>leth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of February.</p>
+                  <p>¶ And in the moneth of Ianuarye, is .viii. pe<g ref="char:EOLhyphen"/>ryllous dayes to take ſyckenes, that is to ſaye the .i. ii. iiii. v. x. xv. xvii. and the .xix.</p>
+               </div>
+               <div n="February" type="month">
+                  <head>¶ Februarye hath the ſygne of thre Fyſſhes And is good for to take purgacyon. And is indyfferent to let blode.</head>
+                  <pb facs="tcp:180848:14" rendition="simple:additions"/>
+                  <p>
+                     <seg rend="decorInit">P</seg>Iſces is a ſygne co<g ref="char:cmbAbbrStroke">̄</g>mon dow<g ref="char:EOLhyphen"/>ble bodyed Septemtryonall, colde, moyſte, and watery, flu<g ref="char:EOLunhyphen"/>matyke of complexion: and of femynyne kynde, and hath of ma<g ref="char:cmbAbbrStroke">̄</g>nes body the feete, than is peryllous to let blode, or open any vayne in that place, and yf a man take ſyc<g ref="char:EOLhyphen"/>kenes in any tyme of that ſygne, it is not of ryghte great peryll, but it is good to go to counſeyll to accorde, and to make all thynge that maye go by water, and to make a thynge that ſhall laſte longe. <g ref="char:cross">✚</g> ☞ ☞ <g ref="char:leaf">❧</g>
+                  </p>
+                  <p>¶ The man that is borne vnder this ſygne of Piſces, ſhall be a great lechour, and go ferre in traueylynge, he ſhall haue an euyll hurte in his heade, in his youthe he ſhall haue many malady<g ref="char:EOLunhyphen"/>es, he ſhall fall in water and eſcape, well he may lyue by kynde. C. yeare, &amp; ye he wyll haue good he muſt dwell in the North. The ſonne entreth in this ſygne of Piſces the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Febru<g ref="char:EOLunhyphen"/>arye, and dwelleth therin tyll the .xvi. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of the moneth of Marche.</p>
+                  <p>¶ And in the moneth of Februarye is .iii. pe<g ref="char:EOLhyphen"/>ryllous dayes to take any maner of ſyckenes on, that is to ſay the .viii. the .x. and the .xvii.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>¶ Here foloweth the euyll and peryllous dayes in the yere. Cap<g ref="char:cmbAbbrStroke">̄</g>. iiii.</head>
+               <pb facs="tcp:180848:15"/>
+               <p>
+                  <seg rend="decorInit">M</seg>Ayſters of Phyſycke that this Crafte fyrſte founde, telleth the fyrſte peryllous dayes, and the moſte daungerous dayes in the yeare. In whiche yf any man or woman be let blode of wounde or vayne, they ſhall dye within .xxi. dayes folowynge. Or who ſo falleth in any ſyckenes in any of theſe day<g ref="char:EOLhyphen"/>es, they ſhal neuer eſcape tyl they be deed. And who ſo take any great iourney in any of theſe dayes to go ferre from home, he ſhall be in dau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ger or dye, or he come home agayne. And who ſo weddeth a wyfe in any of theſe dayes haſtely they ſhall be departed, or els they ſhall lyue to<g ref="char:EOLhyphen"/>gyther with moche ſorowe. And who ſo begyn<g ref="char:EOLhyphen"/>neth in any of theſe dayes any great warke, it ſhall neuer come to good ende. And theſe ben the dayes folowynge, that is to ſaye.</p>
+               <p>¶ In Ianuarye are .vii. dayes, that is to ſaye the fyrſte, the .ii. the .iiii. the .v. the .x. the .xv. the .xvii. and the .xix.</p>
+               <p>¶ In Februarye are .iii. dayes, the .viii. the .x. and the .xvii.</p>
+               <p>¶ In Marche are .iii. dayes, the .xv. the .xvi. and the .xix.</p>
+               <p>¶ In Apryll are .ii. dayes, the .xvi. and the .xxi.</p>
+               <p>¶ In May are .iii. dayes, the .vii. xv. and .xx.</p>
+               <p>¶ In Iune are .ii. dayes, the .iiii. and the .vii.</p>
+               <pb facs="tcp:180848:15" rendition="simple:additions"/>
+               <p>¶ In Iuly are .ii. dayes, the .xv. and the .xx.</p>
+               <p>¶ In Auguſt are .ii. dayes, the .xix. and the .xx.</p>
+               <p>¶ In Septembre are .ii. dayes, the .vi. &amp;. the .vii.</p>
+               <p>¶ In Octobre is one, the .vi. daye.</p>
+               <p>¶ In Nouembre are .ii. daye, the .xv. and y<hi rend="sup">•</hi> .xix.</p>
+               <p>¶ In Decembre are .iii. dayes, the .vi. &amp; the .vii. and the .ix. Et alii dicunt .xv. and .xvi.</p>
+               <p>¶ Alſo there are .iii. dayes in the yere, as ſaynt Bede telleth, in the whiche yf any man let hym blode, or take any drynke to medycyne, within the .vi. day or the .xiii. day of the moneth he ſhal dye, that is for to ſay, the fyrſte daye of the mo<g ref="char:EOLhyphen"/>neth of Auguſt, the laſte daye of Decembre, &amp; the .viii. day of y<hi rend="sup">e</hi> Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Apryll.. Or who ſo eate of a gooſe in any of theſe .ii. dayes within xl. dayes after he ſhal be ſycke &amp; in peryl to dy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>¶ Alſo there is thre peryllous Mondayes, that yf any man or woman eate of any goſe fleſſhe on any of theſe .iii. dayes, they ſhal haue the fal<g ref="char:EOLunhyphen"/>lynge euyll, and no bodely werke ſhall come to good ende that is begon in any of theſe .iii. day<g ref="char:EOLunhyphen"/>es, that is to ſay, the fyrſte monday February, The ſeconde the laſt mondan of May, And y<hi rend="sup">e</hi> thyrde, the laſt monday of Septembre.</p>
+               <p>¶ Who ſo wyll learne of the .iii. peryllous mon<g ref="char:EOLunhyphen"/>dayes as clarkes ſayen, in the whiche no man ſhulde be letten blode of wounde nor vayne.</p>
+               <p>For who ſo be lette blode in any of theſe dayes,
+<pb facs="tcp:180848:16"/> ſoone after he ſhall dye, &amp; that within .iii. dayes And who ſo that than taketh any medycyne, he ſhal be in great daunger to dye. And who ſo be borne in any of theſe dayes, he ſhall be acom<g ref="char:EOLhyphen"/>bred thorughe ſtronge deth, that is for to ſaye, The fyrſte mondaye of Auguſt. The ſeconde is the laſte mondaye of the ſame moneth. And the thyrde is the laſte mondaye of Decembre.</p>
+               <p>And for this encheaſon many men drede and fere eche mondaye. <g ref="char:cross">✚</g> ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+               <p>¶ who ſo wyll learne the Canyculer dayes, the whiche be dayes of great dau<g ref="char:cmbAbbrStroke">̄</g>ger and peryll, as Clarkes ſaye, and they begyn the .xv. Kalen<g ref="char:cmbAbbrStroke">̄</g>. of Auguſt, and endureth to the fourth Nonas of Septembre, in whiche ſeaſon is very peryllous to take ſyckenes, and it is alſo peryllous to ta<g ref="char:EOLhyphen"/>ke drynkes, or medycynes, or to lette blode, but yf it be for great nede, and that muſte be after the myddes of the daye.</p>
+               <trailer>¶ Thus endeth the natures, and expoſycions, of the .xii. Sygnes, deuyded by the .xii. Monthes of the yeare vpon blode lettynge, with the moſte daungerous dayes for to do any maner thynge towchynge Phyſycke and any other.</trailer>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:180848:16" rendition="simple:additions"/>
+               <head>¶ And here foloweth the Remedyes for many dyuers Infyrmyties and dyſeaſes that greueth and hurteth the body of man. And fyrſte for the Peſtylence, and the remedy therfore.</head>
+               <p>
+                  <seg rend="decorInit">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </seg>Or the mooſte nedefull thyng of all, yf ſo be that this appere in any wyſe foreſayd, is for to drawe the botche by crafte away from the clenſynge place a great ſpace from y<hi rend="sup">•</hi> her<g ref="char:EOLhyphen"/>te. And that ſhall I tell the howe, and in all my practyſynge in Phyſycke this .xviii. yeare, I wyſte it neuer fayle but twyſe, &amp; that was not longe of the Medycyne, And none other tyme but of other defautes: the whiche I wyll not wryte at this tyme, though it wyll expell it and voyde it. Alſo loke in the tyme of Peſtylence, that thy Codwares be alway freſſhely waſſhen, and after the waſſhynge, loke that they be dyp<g ref="char:EOLhyphen"/>ped in fyne water of roſes: and on the ſame wy<g ref="char:EOLunhyphen"/>ſe the kerchyefe that thou lappeſt thy heade in on nyghtes, and let it drye by the fyre, and not by the Peſtylence eyre. And whan thou lyeſt y<hi rend="sup">e</hi> downe to ſlepe, lay vnder thy heade, and vnder the ende of thy pyllowe that is towarde thy vy<g ref="char:EOLhyphen"/>ſage
+<pb facs="tcp:180848:17"/> Roſemary, Iſope, ſoueraygne, Myntes, Penyalryall, Lorey leues, put in thy mouthe macys, and clowes, or els Nutmyges, loke eue<g ref="char:EOLunhyphen"/>ry daye that thou take of fyne tryacle proued y<hi rend="sup">e</hi> quantyte of a beane &amp; a halfe. Alſo bere in thy purſe theſe maner of ſpyces, Macys, Clowes, Quibibes, Canell, or els Cynamon: and chewe therof, and eate therof, all the tymes of the day.</p>
+               <p>¶ And yf thou be a poore man &amp; maye not at<g ref="char:EOLhyphen"/>tende to the coſtes of theſe thynges. Take than euery daye faſtyng. ix. ſoppes in fyne vynegre of whyte wyne, or els of red wyne, and drynke to them a ſaucerfull of vynegee, or thou paſſe out of thy chambre, howſe, or place.</p>
+               <p>¶ Alſo one of the beſte gouernaunce of all is in blode lettynge, for thou ſhalte vnderſtande that a man is in ſpyrytuall membres pryncy<g ref="char:EOLhyphen"/>pall, that is to ſaye, the herte, the lyuer, and the brayne, and euery one of theſe hathe his place gyuen hym by kynde, by the whiche he maye a<g ref="char:EOLhyphen"/>uoyde all ſuperfluytes, and clenſe hym ſelfe.</p>
+               <p>¶ The herte hath his clenſynge place in the ar<g ref="char:EOLhyphen"/>me hole. ¶ The clenſynge place of the lyuet is betwyxte the thyghe and the body. ¶ The clen<g ref="char:EOLhyphen"/>ſynge place of the brayne, is vnder the eare, at the rotes, and in the throte.</p>
+               <p>¶ Than this ſyckeneſſe of Peſtylence co<g ref="char:cmbAbbrStroke">̄</g>meth thus, whan the pores of a man are open, than
+<pb facs="tcp:180848:17" rendition="simple:additions"/> fyrſte entreth the venomus &amp; the corrupte eyre, that as ſoone as it hath mayſtrye, and is myn<g ref="char:EOLhyphen"/>ged with mannes blode, than tonneth it to the herte that is rote and grounde of ma<g ref="char:cmbAbbrStroke">̄</g>nes lyfe, for to enfecte and dyſtroye all lyuely ſpyrytes in a man, and ſo fynally for to kylle and ſlee hym, but y<hi rend="sup">e</hi> herte &amp; the clene blode flyeth all that is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyous and contraryous vnto kynde. And in aſmoche as in hym is expelled all ſuch ma<g ref="char:EOLhyphen"/>ner of corrupcyon and venomus, from hym to his clenſyng place to the arme hoole. But than for that place is ſomtyme ſtopped, that it may not out, &amp; it paſſeth than to the pryncypall me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>bre nexte, that is the lyuer for to enfecte &amp; for to dyſtroye it. And than it dothe as the herte doth in his kynde, and explleth it from hym to his clenſyng place bytwyxte the thyghe and the body for it is alſo ſparred in caſe and ſtopped, that it may not out, but paſſeth the meates &amp; the vaynes vnto the thyrde pryncypall mem<g ref="char:EOLhyphen"/>bre that is the Brayne, but than he wolde ex<g ref="char:EOLhyphen"/>pelle it to his clenſynge place, that is vnder the erys and it maye not in caſe out, therfore the ſtoppynge and the ſparryng of the meates and porys, and for thyckenes of the fowle and corrupte blode, and the venomous matter is mouynge that is myngled therwith, and thus longe tyme the matter is mouynge or it reſteth
+<pb facs="tcp:180848:18"/> in any place, ſomtyme. xii. houres, &amp; ſomtyme. xxiiii. houres, and ſomtyme more, and ſomty<g ref="char:EOLhyphen"/>me leſſe after the degre and the gentylnes and the greatnes of the ſycknes corrupcyons and venoms that be gendred. But than at the laſte, ſomtyme within. xiiii. houres it paſſe not out at the clenſynge place, nor at none other place throughe bledynge, tha<g ref="char:cmbAbbrStroke">̄</g> it fyſtures in ſome pla<g ref="char:EOLhyphen"/>ce, and caſt a man in to an ague, and maketh a botche in ſome of the thre clenſynge places, or els nere to theym on ſome vayne, for ye ſhall well were that a botche groundeth hym euermo<g ref="char:EOLunhyphen"/>re, and ſetteth hym on a vayne and letteth the blode than, that it maye not haue his kyndelye courſe by the vayne as he ſhulde haue, but it is infecte therby. And ſo all the pryncypall &amp; ſpy<g ref="char:EOLhyphen"/>rytuall membres are infecte &amp; thus ſleeth man.</p>
+               <trailer>¶ Finis.</trailer>
+               <trailer>¶ Thus endeth the thyrde partye of this peſtylence treatyſe.</trailer>
+            </div>
+            <div n="6" type="chapter">
+               <head>¶ For to ſpourge the hed. Cap<g ref="char:cmbAbbrStroke">̄</g>. vi.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake the ſeede of Stauyſacre, &amp; beate it ſmall to powdre, &amp; whan it is beaten ſmall, take a fyne ly<g ref="char:EOLhyphen"/>nen clothe, and put the powder therin, and make therof a lytell ball the quantyte of a great ha<g ref="char:EOLhyphen"/>ſell nutte, and put in thy mouthe and roll it to
+<pb facs="tcp:180848:18" rendition="simple:additions"/> and fro betwyxte thy tethe chawynge holdyng downe thy hed, the ſpace of an houre &amp; it wyll ſpourge thy hed and thy gu<g ref="char:cmbAbbrStroke">̄</g>mes, and kepe thy tethe from akynge.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>¶ Alſo for to ſpourge the hed. Cap<g ref="char:cmbAbbrStroke">̄</g>. vii.</head>
+               <p>¶ Take the rote of Pelater of Spayne, and chawe it betwyxte thy tethe to and fro a good whyle, and it wyll ſpourge well thy heade, and alſo faſten thy tethe, and ſpourge thy gu<g ref="char:cmbAbbrStroke">̄</g>mes.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>¶ For the hed ache. Cap<g ref="char:cmbAbbrStroke">̄</g>. viii.</head>
+               <p>¶ Take hemleckes and ſeeth them tyll they be ſofte as pappe, than lay them to the heed there the payne is, and let them lye al nyght<g ref="char:punc">▪</g> &amp; on the mornynge laye another hote playſter of the ſa<g ref="char:EOLhyphen"/>me &amp; do ſo .ii. or .iii. tymes, and he ſhall be hole.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>¶ For akynge of the heade .Ca. ix.</head>
+               <p>¶ Take and make lye of Veruayne, or els of Betayne, or of wormewode, &amp; therwith waſſhe thy heade thryſe in the weke, and it ſhall do the moche good, and take awaye the ache.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>¶ For the to the ache .Cap<g ref="char:cmbAbbrStroke">̄</g>. x.</head>
+               <p>¶ Take Betayne and wylde gourdes, &amp; ſethe them in wyne or els in vynegre, and than put it in thy mouthe as hote as thou mayeſt ſuffre and holde it a good whyle in thy mouthe, and it wyll take awaye the payne.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>¶ For the ache of a holowe to the .Ca. xi.</head>
+               <p>¶ Take Aſſafettda and put it in thy to the that
+<pb facs="tcp:180848:19"/> is holowe, and it wyll appeaſe and take awaye the ache.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>¶ Alſo for the tothe ache. Ca. xii.</head>
+               <p>¶ Take Henbane and bruſe it, and holde it be<g ref="char:EOLhyphen"/>twene thy teth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a good whyle, &amp; lay it vpon the tothe y<hi rend="sup">e</hi> aketh, &amp; it wyll ſwage y<hi rend="sup">e</hi> payne anone.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>¶ Alſo for the tothe ache. Ca. xiii.</head>
+               <p>¶ Take the ſede of Henbane and caſt it vpon a chaffynge dyſſhe of charcole fyre, &amp; holde thy mouthe ouer the fyre, that the ſmoke maye en<g ref="char:EOLhyphen"/>tre in to thy mouth, &amp; alſo than hold thy mouth ouer a baſen of fayre clene water, &amp; thou ſhalte ſe vpon the water as it were ſmal wormes, that ſhall come droppynge out of thy mouthe. Alſo take the ſeed of henbane &amp; bete it to ſmall pow<g ref="char:EOLhyphen"/>der, and medle it with waxe, and make a lyttell pellet that it maye be full of powdre without forthe, and put it in the hole of the holowe toth that aketh, and it wyll lyghtely ſlee the ache of the tothe.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>¶ Alſo for the toth ache. Ca. xiiii.</head>
+               <p>¶ Take the roote of Henbane, and ſethe it in vynegre to the thyrde partye be ſodden awaye, and with the ſame waſſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy mouthe, and hol<g ref="char:EOLhyphen"/>de thy mouthe full a good whyle / and it wyl ſle<g ref="char:EOLunhyphen"/>the to the ache, Alſo take the roote of Henba<g ref="char:EOLhyphen"/>ne, and holde it betwene thy akynge tethe, and it wyll do awaye the payne.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb facs="tcp:180848:19" rendition="simple:additions"/>
+               <head>¶ For the ſtenche in the mouthe. Ca. xv.</head>
+               <p>¶ Take the Ioyce of Veruayne and bruſe it &amp; put it in thy mouthe, and holde it a good why<g ref="char:EOLhyphen"/>le cloſe in thy mouthe, and it wyll take awaye the ſtenche.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>¶ For a ſtynkynge brethe. Ca. xvi.</head>
+               <p>¶ Take oyle Dorret, Turpentyne, hony, oyle olyue, vyrgyn waxe, as moche of one as of an other, and boyle theym all togyther and make an oyntemente therof, and vſe it euery daye in the pacyentes noſethrylles, and lette it be put in to the noſe euery daye in the mornyng with two tentes made of lynte ſcraped of fyne lyn<g ref="char:EOLhyphen"/>nen clothe, and he ſhalbe hole.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>¶ For ache &amp; wormes in the eares. Ca. xvii.</head>
+               <p>¶ Take the ioyce of Henbane and put it in to thyne eares, &amp; it wyll take awaye the ache and ſle the wormes in them.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>¶ A precyouſe water for poyſon, and ſpecy<g ref="char:EOLhyphen"/>ally agaynſt the peſtylence, Cap<g ref="char:cmbAbbrStroke">̄</g>. xviii.</head>
+               <p>¶ Take Turmentyl, ſcabyous, goldes, detay<g ref="char:EOLhyphen"/>ne, and pympernell, of eueryche a lyke moche and dyſtyll therof a water, &amp; drynke it faſtyng euery daye in the mornynge, fyrſte next your herte, for it ſhall do you moche good.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>¶ For ronnynge iyen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xix.</head>
+               <p>¶ Take blacke ſnayles and ſeeth them in fayre water, than take the grece that is on the water,
+<pb facs="tcp:180848:20"/> and therwith anoynte the iyen that be watery and ronneth,</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>¶ For red blered iyen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xx.</head>
+               <p>¶ Take the ioyce of Rue, and powdre of Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>myn, medle theym togyther, than take cotten and depe it well therin, and laye it therto, and anoynte the temples, the browes, and the lyd<g ref="char:EOLhyphen"/>des of the iyen therwith, and they ſhal be hole.</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>¶ For iyen y<hi rend="sup">e</hi> be daſuned or dyrke. Ca. xxi.</head>
+               <p>¶ Take the rote of red fenell in wynter, and in ſo<g ref="char:cmbAbbrStroke">̄</g>mer the leues, or elles bothe rotes &amp; leues and ſtampe theym and wrynge out the iuce, and tempre thy iuce with fyne claryfyed hon<g ref="char:EOLhyphen"/>ny, and make therof an oyntment, &amp; anoynt the iyen therwith, and it ſhall put awaye the derkenes, and ſhall clere the ſyghte.</p>
+            </div>
+            <div n="22" type="chapter">
+               <head>¶ A precyous water for the ſyght of the iyen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxii.</head>
+               <p>¶ Take ſmaleche, red fenell, rue, veruayne, Betayne, Egrymonye, pympernell, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>frage<g ref="char:punc">▪</g> ſauge, ſalendyne, of eueryche a lyke moche of quantyte, and waſſhe them well and clene and ſtampe them, and put theym in to a fayre bra<g ref="char:EOLhyphen"/>ſen panne, and take the powdre of. xv. peper cornes, fayre ſarcyd in to a pynt of good why<g ref="char:EOLhyphen"/>te wyne, and put it vnto the herbes, with. iii. ſponefull of lyfe ho<g ref="char:cmbAbbrStroke">̄</g>ny, and. v. ſponefull of the water of a man chylyde that is an Innocent,
+<pb facs="tcp:180848:20" rendition="simple:additions"/> and medle theym all togyther and boyle them ouer the fyre, and whan it is ſodde ſtrayne it throughe a clene lynnen clothe, and put it in a glaſſe and ſtoppe it well and cloſe / tyll you wyll occupye it, and whan nede is do therof in to the ſore iyen with a fether, and yf it be waxen drye tempre it with good whyte wyne, for it is very good for the ſyght of the iyen.</p>
+            </div>
+            <div n="23" type="chapter">
+               <head>¶ For a pynne and the webbe in the iyen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxiii.</head>
+               <p>¶ Take a curteſye of clene claryfyed ho<g ref="char:cmbAbbrStroke">̄</g>nye, and as moche of womans mylke, that noryſ<g ref="char:EOLhyphen"/>ſheth a mayde chylde, and for the woman the man chylde, and ſethe them togyther, &amp; whan it is colde putte it in a glaſſe, and cloſe it from the eyre, and thus do. ii. or. iii. dayes. ii. or. iii. tymes euery day, and he ſhall be hole.</p>
+            </div>
+            <div n="24" type="chapter">
+               <head>¶ For all euyls in the iyen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxiiii.</head>
+               <p>¶ Take clene claryfyed ho<g ref="char:cmbAbbrStroke">̄</g>nye one parte, and more than of halfe the ho<g ref="char:cmbAbbrStroke">̄</g>ny of the gall of an Hare, medle them togyther in a veſſell ouer the fyre, but make it but luke warme, and kepe it in a Glaſſe, but beware that thou take not to moch therof in thyne iyen, for the quantyte of a ſmall pynnes heade is ynoughe at ones whan thou goſte to bedde, &amp; that is ſufficyent for. vii. yeares yf a man haue a perle, or a web in his iye &amp; it be not drye, put therto ſome dele
+<pb facs="tcp:180848:21"/> more of the gall than of ho<g ref="char:cmbAbbrStroke">̄</g>nye.</p>
+            </div>
+            <div n="25" type="chapter">
+               <head>¶ For boylynge in the iye. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxv.</head>
+               <p>¶ Take may butter and powdre of commyn / and ſtampe them togyther / and laye it on a lynnen clothe to the iyen, and often tymes re<g ref="char:EOLhyphen"/>newe it, and whan the boylynge is ſwaged, ta<g ref="char:EOLhyphen"/>ke ſaffron, and womans my<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, &amp; grynde them togyther, and droppe therof in the ſore iyen, &amp; than thou ſhalt be hole.</p>
+            </div>
+            <div n="26" type="chapter">
+               <head>¶ For a ſtynkynge brethe. Capi. xxvi.</head>
+               <p>¶ Take .ii. handfull of powdre of co<g ref="char:cmbAbbrStroke">̄</g>myn and ſythe it in good whyte wyne, from a quarte tyll a pynte, and drynke this fyrſte and laſte alwayes hote, and he ſhall be hole within .ix. daa<g ref="char:EOLunhyphen"/>es drynkynge.</p>
+            </div>
+            <div n="27" type="chapter">
+               <head>¶ For the ſtomacke that is hote and ſwollen. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxvii.</head>
+               <p>¶ For the ſtomacke that is hote and ſwollen, take the rote of Smaleche and ſtampe it / and put it in ſwete wyne, or in other good wyne all a daye and anyghte, and than let it be paſſed throughe a fayre lynnen clothe, and put it in a clene veſſell, and vſe to drynke a quantyte ther<g ref="char:EOLhyphen"/>of euery daye faſtynge .viii. or .ix. dayes duryn<g ref="char:EOLhyphen"/>ge and he ſhall be hole.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>¶ For the ſtomacke that aketh, that co<g ref="char:cmbAbbrStroke">̄</g>meth of colde. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxviii.</head>
+               <p>¶ For the ſtomacke that aketh, that co<g ref="char:cmbAbbrStroke">̄</g>meth of
+<pb facs="tcp:180848:21" rendition="simple:additions"/> colde, take an herbe that is called Poleo, and drye benes, and an handefull of ſyngryge and as moche of this Poleo, and putte it in a veſ<g ref="char:EOLhyphen"/>ſell with fayre water, &amp; let it ſethe there on the fyre, tyll y<hi rend="sup">•</hi> thyrde parte of the water, be ſoden away, and put therto ſugre of ſtone and a cur<g ref="char:EOLhyphen"/>teſye of honny, &amp; drynke it .vi. dayes faſtynge, and he ſhall be hole.</p>
+            </div>
+            <div n="29" type="chapter">
+               <head>¶ For to force the ſtomacke. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxix.</head>
+               <p>¶ To force the ſtomacke take, canell .iii. poy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and .i. poys of maſtyke, and .i. poys of the pa<g ref="char:EOLhyphen"/>rynges of Pomegarnades, and halfe a poys of galyngale, and ſtampe all theſe togyther / and tempre it with honnye that hath ben boyled on the fyre, and well ſcummed, and vſe of this as moche as a nut euery day, durynge .ix. dayes faſtynge, and he ſhall be hole.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>¶ For the ſtomacke and the bely that aketh. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxx.</head>
+               <p>¶ For the ſtomacke and the bely that aketh, ta<g ref="char:EOLhyphen"/>ke the floure of an herbe that is named Nema<g ref="char:EOLhyphen"/>ham, that is lyke to mynte, and it hath a good ſauour, take .iiii. poys of Coſmer, &amp; .vii. poys of water, and ſethe all togyther to the .iii. poys of water, and ſethe all togyther to the .iii. parte and with ſugre drynke this .v. dayes faſtynge in the mornyng, and he ſhall be hole.</p>
+            </div>
+            <div n="31" type="chapter">
+               <head>¶ And a man be Sycke at the ſtomacke, or in the belye, or at the herte, or heed,
+<pb facs="tcp:180848:22"/> or were bytten with any euyll venomus beeſt, or poyſoned. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxi.</head>
+               <p>¶ And a man were by the waye trauaylynge, or in his houſe, and he had all theſe ſyckenes, and he had with hym a Lectuarye, that is made of .v. thynges, and he eate therof, or dronke therof in water .iii. poys, or .iiii. he ſhulde be hole and he vſe it .xv. dayes faſtynge, whan he goth to bed laſt, he ſhulde be hole of all the ſyckenes in his body, &amp; he dronke euery tyme two poys, and theſe thynges they be, Scor<g ref="char:EOLhyphen"/>logio, Morre, Genciana, Grandorer, and zaraont, as moche of one as another, &amp; ſtampe them and ſtrayne them, and medle them with honny that hath ben well boyled on the fyre, &amp; well ſcummed fayre and clene. For this is cal<g ref="char:EOLhyphen"/>led the Lecutuarye of lyfe.</p>
+            </div>
+            <div n="32" type="chapter">
+               <head>¶ A good medycyne for ryſynge vnder the ſtomacke. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxii.</head>
+               <p>¶ Take peper, longe peper, graynes, ſaffron gynger, anneys, lycores, and ſugre, ſethe all theſe in good ale tyll it be thycke, and gyue it the ſycke to drynke, and he ſhall be hole.</p>
+            </div>
+            <div n="33" type="chapter">
+               <head>¶ Alſo a good playſte for the ryſynge vnder the ſtomacke. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxiii.</head>
+               <p>¶ Take yarowe, otherwyſe called mylfoyle, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed fenell, red myntes, borage, rue, fetherfoy, clote leues, perytory, egrymonye, of eueryche
+<pb facs="tcp:180848:22" rendition="simple:additions"/> a lyke mothe, and the grece of a barowe hogge, for a man, and for a woman of a yelke hogge, that is of a ſowe kynde, and ſethe theym all togyther in good ale, &amp; make a playſter ther<g ref="char:EOLhyphen"/>of, &amp; laye it to the ſtomacke as hote as it maye be ſuffered .ii. or .iii. tymes, and he ſhall be hole.</p>
+            </div>
+            <div n="34" type="chapter">
+               <head>¶ For to dyſtroye the hete in the ſtomacke. Capit. xxxiiii.</head>
+               <p>¶ Take fayre clere water and boyle it well, and ſcu<g ref="char:cmbAbbrStroke">̄</g>me it, and put therin ſheuers of browne breade, and let theym lye therin an houre, tyll the water be almoſte colde, and than drynke therof .ii. or .iii. dayes by dyuers tymes, and he ſhall amende in ſhorte tyme.</p>
+            </div>
+            <div n="35" type="chapter">
+               <head>¶ For brennynge in the ſtomacke. Capitu. xxxv.</head>
+               <p>¶ Take and eate grene percely &amp; galyngale without any other maner of thynge.</p>
+            </div>
+            <div n="36" type="chapter">
+               <head>¶ For to auoyde flewme out of the ſto<g ref="char:EOLhyphen"/>macke, &amp; alſo the heade. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxvi.</head>
+               <p>¶ Take powder of Pelater of Spayne, and powdre of Co<g ref="char:cmbAbbrStroke">̄</g>myn, powder of longe peper, powder of gynger, muſtarde, vynegre, and medle them togyther, and chaffe theym on the fyre vntyll they waxe thycke, and than as hote as ye maye ſuffre, putte parte therof in your mouthe galkyng in your throte vp and downe but lette none entre in to your ſtomacke, and
+<pb facs="tcp:180848:23"/> do this dyuers tymes, ſpyttynge out be the ſpace of an houre, and this is a gargaryſme.</p>
+            </div>
+            <div n="37" type="chapter">
+               <head>¶ For all euylles in the ſtomacke. Capitulum. xxxvii.</head>
+               <p>¶ Take aſſhe ſede, lynne ſede, and Co<g ref="char:cmbAbbrStroke">̄</g>myn, of eueryche a lyke moche, and gyue it to the ſycke body to drynke with hote worte, or els with fayre hote water.</p>
+            </div>
+            <div n="38" type="chapter">
+               <head>¶ For a dyſeaſe at y<hi rend="sup">•</hi> herte. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxviii.</head>
+               <p>¶ Take Sentuarye and ſethe it in ſtale ale, whan it is wel ſoden ſtampe it in a morter and ſethe it agayne with the ſame lycoure, &amp; than clenſe it through a clothe, &amp; ꝓporcyon the iuce, to .ii. ſponefull of the iuce, put therto .iii. ſpone<g ref="char:EOLhyphen"/>full of claryfyed ho<g ref="char:cmbAbbrStroke">̄</g>ny, &amp; than boyle it well to<g ref="char:EOLhyphen"/>gyther agayne, &amp; put it in a boxe &amp; gyue it to the pacyent euerydaye .iii. ſponefull faſtynge, tyll he be hole, &amp; this ſhall do away y<hi rend="sup">•</hi> glut from his herte, &amp; make hym to haue talent to meate.</p>
+            </div>
+            <div n="39" type="chapter">
+               <head>¶ For wekenes of the herte. Cap<g ref="char:cmbAbbrStroke">̄</g>. xxxix.</head>
+               <p>¶ Take Roſe water, and Perles betyn ſmall to powdre, and medle it with ſugre, &amp; drynke it .ii. or .iii. dayes, and it ſhall do the good.</p>
+            </div>
+            <div n="40" type="chapter">
+               <head>¶ For fayntnes of the herte. Cap<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> xl.</head>
+               <p>¶ Take the fylynge of golde, and the powdre of the bone of a hartes herte, medle with the iuce of borage and ſugre made in ſyrope, for that is very good for ſwonynge.</p>
+            </div>
+            <div n="41" type="chapter">
+               <pb facs="tcp:180848:23" rendition="simple:additions"/>
+               <head>¶ For the breſt that is enco<g ref="char:cmbAbbrStroke">̄</g>bred. Cap<g ref="char:cmbAbbrStroke">̄</g>. xl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</head>
+               <p>¶ Take Iſope &amp; ſethe it in a pottell of wyne <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yll that it come to a quarte, &amp; let the ſycke vſe therof fyrſt in the mornynge, and laſt at euen hote, and at morowe colde tyll he be hole.</p>
+            </div>
+            <div n="42" type="chapter">
+               <head>¶ For a man, woman, or chylde, that is broken in the bely. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlii.</head>
+               <p>¶ Take in Maye the tendre croppes of herbe Oſmunde, and drye theym with the wynde, and not in the ſonne, and make powdre ther<g ref="char:EOLhyphen"/>of, and ſarce it and kepe it drye in a bladder, &amp; let the pacyent drynke of that powdre with whyte wyne euen and morowe, wynter and ſo<g ref="char:cmbAbbrStroke">̄</g>mer, ſaue in Maye. In Maye drynke of the tendrynges of the ſayde Oſmunde, for this drynke wyll make the broken belye grene as it were newe broken, and the pacyent muſte be well and eaſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y truſſed, that he or ſhe maye go with it all daye, and lye with it all nyght tyll he be hoſe, and that wyll be within .xiiii. dayes, yf he be well ruled, for he muſte lye vp ryght as moche he maye both daye and nyght, and not ſtrayne his belye, but as lytell as he can. And he muſte kepe hym la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as longe as he is ſycke and lye in his bedde .ii. houres in the mornyng after he hath dronke this medycyne, and muſt eate no whyte meate tyll he be hole, nor walke but eaſely for ſtraynynge.</p>
+            </div>
+            <div n="43" type="chapter">
+               <pb facs="tcp:180848:24"/>
+               <head>¶ The playſter to knyt hym. Cap<g ref="char:cmbAbbrStroke">̄</g>. xliii.</head>
+               <p>¶ Take Polypody that groweth on an oke, the rootes therof and pare them clene, and the rootes of Elena ca<g ref="char:cmbAbbrStroke">̄</g>pona, and pare them clene, and than beate them in a morter, as ſmall as thou ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſte, and tempre it with oyle of baye and make a thycke playſter, and laye it on a thycke clothe a good quantyte, and lay it there the ſycke is greued vnder the truſſe from the euyn vntyll the morowe, and on the morowe chaunge it agayne, this is for all the yeare ſaue in May, than the leues be better.</p>
+            </div>
+            <div n="44" type="chapter">
+               <head>¶ For the playſter in Maye. Cap<g ref="char:cmbAbbrStroke">̄</g>. xliiii.</head>
+               <p>¶ Take Polypodye leues, and the leues of Elena campana, and Dayſye leues, and bete them ſmall, &amp; tempre them with oyle of Baye as thou ſemeſt beſt to make a palyſter, and lay it there the ſore is euyn and morowe, and he ſhall by the grace of God be hole.</p>
+            </div>
+            <div n="45" type="chapter">
+               <head>¶ For to breke wynde in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bely. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlv.</head>
+               <p>¶ Take co<g ref="char:cmbAbbrStroke">̄</g>myn, fenell ſede, and anneys ſede beatyn to powdre, than ſethe it in wyne and drynke it fyrſte and laſte.</p>
+            </div>
+            <div n="46" type="chapter">
+               <head>¶ For a ſwollen wombe. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlvi.</head>
+               <p>¶ Take the iuce of Kue, and let the pacyent drynke it with wyne or ale, and he ſhal be hole on warantyſe.</p>
+            </div>
+            <div n="47" type="chapter">
+               <head>¶ For akynge of the wombe. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlvii.</head>
+               <pb facs="tcp:180848:24" rendition="simple:additions"/>
+               <p>¶ Take tanſay, rue, ſothernewode, and eate them with ſalte, and he ſhall be hole.</p>
+            </div>
+            <div n="48" type="chapter">
+               <head>¶ For the herte brennynge. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlviii.</head>
+               <p>¶ Take the croppe of Fenell, and chewe it in thy mouthe, and ſucke the iuce therof, &amp; ſpette out the other parte, and he ſhall be hole.</p>
+            </div>
+            <div n="49" type="chapter">
+               <head>¶ For ſore ſydes within forthe. Cap<g ref="char:cmbAbbrStroke">̄</g>. xlix.</head>
+               <p>¶ Take Alyſaundres, perſely, louage, red fe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, ſmalege, burnet, and gromell, and ſethe theym in whyte wyne, tyll halfe be conſumed than ſtrayne it and let the ſycke drynke it fyrſte and laſt, at euen hote, and at morowe colde,</p>
+            </div>
+            <div n="50" type="chapter">
+               <head>¶ Co<g ref="char:cmbAbbrStroke">̄</g>tra telam et macula<g ref="char:cmbAbbrStroke">̄</g> in oculo. Cap<g ref="char:cmbAbbrStroke">̄</g>. l.</head>
+               <p>¶ Take fenell, vnſet goldes, veruayne, and betayne An<g ref="char:cmbAbbrStroke">̄</g>. and ſtampe theym &amp; tempre them with ale or whyte wyne, and ſtrayne it, and than ſtampt .ix. lowpes, otherwyſe called Cheſiockes, and put theym in to the ſayde ly<g ref="char:EOLhyphen"/>coure, and gyue it to the pacyeunt to drynke. ix. dayes folowynge, and he ſhall be hole.</p>
+            </div>
+            <div n="51" type="chapter">
+               <head>¶ For a womans pappe y<hi rend="sup">•</hi> is ſore. Cap<g ref="char:cmbAbbrStroke">̄</g>. li.</head>
+               <p>¶ Take the rote of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryan, y<hi rend="sup">•</hi> is to ſaye, wylde Neppe, and make bare all the ouer parte of the ſayde roote, that is to ſaye, the toppe of the roote, and make an hole therin, and couer it with a tyle ſtone and put it in the earth, and lay earth vpon it, and let it ſtande ſo .iiii. or .v. dayes, than open it and take the iuce, that ye
+<pb facs="tcp:180848:25"/> fynde in the hole and kepe it in a glaſſe, and therwith anoynte the breſt and it ſhal be hole.</p>
+            </div>
+            <div n="52" type="chapter">
+               <head>¶ For the lyuer that is corrupte and waſted. Cap<g ref="char:cmbAbbrStroke">̄</g> .lii.</head>
+               <p>¶ Take a good quantyte of lyuer worte, and bruſe it a lytell, &amp; than ſethe it in good ſtronge worte with a quantyte of Rubarbe, and vſe this medycyne and thou ſhalt be hole.</p>
+            </div>
+            <div n="53" type="chapter">
+               <head>¶ For the hete in the lyuer. Cap<g ref="char:cmbAbbrStroke">̄</g> .liii.</head>
+               <p>¶ Take the iuce of ſowre apples, and ſwete apples of eche a pounde or more, as moche as you thynke veſte, and .ii. pounde of ſugre and medle theſe thynges togyther, and lette them boyle on a ſymple fyre tyll it be thycke as a ſy<g ref="char:EOLhyphen"/>rope, and vſe this a curteſye therof euery daye faſtynge with luke warme water.</p>
+            </div>
+            <div n="54" type="chapter">
+               <head>¶ For the hete in the lyuer of a man that his colour is yelowe. Cap<g ref="char:cmbAbbrStroke">̄</g> .liiii.</head>
+               <p>¶ Take the water of Sycore, and water of Letuſe, and the water of the leues and ſmall braunches of a wylde moryer tree, or els take the herbes and ſtampe all theſe togyther, and as moche of one as of another, and take the iuce of theſe thynges, and as moche as all this of ſugre, and boyle all togyther vntyll it be as thycke as ſyrope, and than put therto a poyſe and a halfe of Rubarbe, and vſe a quantyte of this ſyrope in colde water euery day faſtynge
+<pb facs="tcp:180848:25" rendition="simple:additions"/> and laſt at nyght, and he ſhall be hole.</p>
+            </div>
+            <div n="55" type="chapter">
+               <head>¶ For the breſt that is enco<g ref="char:cmbAbbrStroke">̄</g>bred. Cap<g ref="char:cmbAbbrStroke">̄</g>. lvi</head>
+               <p>¶ Take and drynke .viii. dayes, or .ix. of the Fumer, the co<g ref="char:cmbAbbrStroke">̄</g>meth of ſylke wormes, euery daye a poys in ſyrope of Iſope, and yf a man maye not haue this drynke, take the pure hert Do<g ref="char:cmbAbbrStroke">̄</g>lignam alſo in ſyrope of Iſope .x. dayes, and he ſhall be hole.</p>
+            </div>
+            <div n="56" type="chapter">
+               <head>¶ For a man that hath wormes in his bely and his body be lene. Cap<g ref="char:cmbAbbrStroke">̄</g> .lvi.</head>
+               <p>¶ Take the galle of a Rowe, and floure of Lupius a curteſye and medle theym togyther, and make a playſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of wolle, and laye it on his help where the grefe is, and do this .iiii. or .v. dayes, and he ſhall be hole.</p>
+            </div>
+            <div n="57" type="chapter">
+               <head>¶ For the breſte &amp; the lunges. Cap<g ref="char:cmbAbbrStroke">̄</g> .lvii.</head>
+               <p>¶ Take a qua<g ref="char:cmbAbbrStroke">̄</g>tyte of claryfyed ho<g ref="char:cmbAbbrStroke">̄</g>ny &amp; boyle it, and whan it is boled putte therto halfe a pounde of pere wardyns mynſed, and boyle theym well togyther, and than put therto an ounce of powdre, made of the rotes of Elena campana, and an ounce of powdre of lycores / and let theym boyle tyll it be ſomwhat ſtyffe, than take it from the fyre, &amp; whan it is nyghe colde put therto an ounce powdre of gynger, &amp; ſtyrre it well togyther, vſe this fyrſte &amp; laſt.</p>
+            </div>
+            <div n="58" type="chapter">
+               <head>¶ For to auoyde &amp; diſtroy flume. Ca .lviii.</head>
+               <p>¶ Take percely rotes, fenell rotes, perytory,
+<pb facs="tcp:180848:26"/> and Iſope, and ſethe theym in good ale <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lycores, and a quantyte of claryfyed honnye, and vſe to drynke it, and thou ſhalt be hole.</p>
+            </div>
+            <div n="59" type="chapter">
+               <head>¶ For the ſtone. Cap<g ref="char:cmbAbbrStroke">̄</g> .lix.</head>
+               <p>¶ Take the roundes of thornebacke and drye theym fayre, and make powdre therof, &amp; than take therof .ii. d. weyght, and put therto two ſponefull of water of Ramſyne, and drynke it euery daye, and euery nyghte, and than thou ſhalte be hole. And yf it be a great ſtone take a ſponefull of water of ſtone croppe .ii. ſpone<g ref="char:EOLhyphen"/>full of water of Ramſyns, &amp; .ii. peny weyght of the foreſayd powdre medled togyther, and vſe this medycyne .iii. tymes, and thou ſhalte be holpe, be the ſtone neuer ſo great.</p>
+            </div>
+            <div n="60" type="chapter">
+               <head>¶ Alſo for the ſtone. Cap<g ref="char:cmbAbbrStroke">̄</g> .lx.</head>
+               <p>¶ Take the blode of a male Kyd, and drye it in an ouen and make powdre of it, than take gromell ſede, grounde Iue beryes, ſtanmar<g ref="char:EOLhyphen"/>che ſede, the rote or the ſede of Saxyfrage, ro<g ref="char:EOLhyphen"/>tes of Turmentyll, and of phylypendula, by euyn poicyon, and bete all to ſmale powdre, than take as moche as the powdre of kyddes blode, and of the ſedes and rotes aboueſayde, and vſe this powdre whan nede is in ſauce or in potage, a peny weyght at ones &amp; no more.</p>
+            </div>
+            <div n="61" type="chapter">
+               <head>¶ For the Collycke, ſtrangury, and the ſtone. Cap<g ref="char:cmbAbbrStroke">̄</g>. <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </head>
+               <pb facs="tcp:180848:26" rendition="simple:additions"/>
+               <p>¶ Take Careawey, fenell ſede, ſpyckenared annes, co<g ref="char:cmbAbbrStroke">̄</g>myn, cynamum, and galyngale, of eueryche halfe an ounce, gromell ſede, and ly<g ref="char:EOLhyphen"/>cores, of eueryche of them an ounce, and ſe the weyght of all them, and bete the<g ref="char:cmbAbbrStroke">̄</g> all to powdre, and put halfe a ſponefull of the ſame powdre in ale luke warme and drynke it, and walke therafter an houre, or thou eate or drynke any maner of thynge.</p>
+            </div>
+            <div n="62" type="chapter">
+               <head>¶ For a man that is lepre, and it take in his legges and go vpwarde. Cap<g ref="char:cmbAbbrStroke">̄</g> .lxii.</head>
+               <p>¶ For a man that is lepre, and it take fyrſte in his legges and go vpwarde in to his body he maye be ſoone hole, and yf he wyll take a Charabot, that is to ſaye, a Bettyll and bren it to aſſhes, and beate it all to powdre ſmall, and than take olde barowes grece, and melt it well on the fyre, and tempre it togyther, and as moche as halfe that of Blanchet, and make an oyntement therof, and vſe it on the ſore, and vpon the oyntement, loke that ye putte a plate of lede, full of ſmall holes in many pla<g ref="char:EOLhyphen"/>ces, and chau<g ref="char:cmbAbbrStroke">̄</g>ge it bothe in the mornynge and at nyght the oyntement, but not the lede, and he ſhall be ſoone hole of that ſyckenes.</p>
+            </div>
+            <div n="63" type="chapter">
+               <head>¶ For a dertre in a mans fleſſhe. Ca .lxiii.</head>
+               <p>¶ Take a worme that is called a Pi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>achar, that is as great as a bene, &amp; is clene blewe or
+<pb facs="tcp:180848:27"/> ſendre, and it hath many ſmall feete and whyte vnder the bely. And whan a man toucheth it he waxeth rounde as a boton, take that worme and rubbe it well agaynſt the derte, ſo that it be all broken, and do this euery daye .iii. or .iiii. tymes, and at euery tyme rubbe .iii. wormes, or .iiii. and anone it ſhall be hole.</p>
+            </div>
+            <div n="64" type="chapter">
+               <head>¶ For a ſauce flume vyſage. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxiiii.</head>
+               <p>¶ Take Elena campana and ſethe it in a pot with vynegre tyll it be ſoden in, than ſta<g ref="char:cmbAbbrStroke">̄</g>pe it ſmall, and than put therto quyckeſyluer, and brymſtone, and gyltes grece, and bray it togy<g ref="char:EOLhyphen"/>ther and make therof a playſter, and laye it to the vyſage all nyght, and vpon the morowe waſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e it of.</p>
+            </div>
+            <div n="65" type="chapter">
+               <head>¶ For hym that maye not holde his water Capitulum. lxv.</head>
+               <p>¶ Take gotes talowe and bren it, and make therof powdre, and put it in to the pac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entes potage, and let hym vſe this and he ſhall pyſſe meſurably ynoughe.</p>
+            </div>
+            <div n="66" type="chapter">
+               <head>¶ Another for the ſame. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxvi.</head>
+               <p>¶ Take Synſhone and ſhepes talowe, and ſethe them well togyther, &amp; as hote as it maye be ſuffered laye it to the membre, and he ſhall make water anone.</p>
+            </div>
+            <div n="67" type="chapter">
+               <head>¶ For to dyſtroye flume. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxvii.</head>
+               <p>¶ Take betayne and drye it, and make therof
+<pb facs="tcp:180848:27" rendition="simple:additions"/> powdre, and kepe it tyll thou haue nede, and whan thou wylt occupye therof take a quan<g ref="char:EOLhyphen"/>tyte of honnye and of the powdre, and make therof .ii. or .iii. pellettes, and ſwolowe theym downe all hole laſte whan thou goeſt to bed, and that ſhall do the moche good.</p>
+            </div>
+            <div n="68" type="chapter">
+               <head>¶ For a wombe that is harde. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxviii.</head>
+               <p>¶ Drynke the iuce of waybrede with olde wy<g ref="char:EOLhyphen"/>ne and he ſhall be eaſed.</p>
+               <p>¶ Alſo another for the ſame, take Cynkfoyle, that is to ſaye, fyue leued graſſe, and ſtampe it and drynke it with hote mylke, and he ſhall be eaſed.</p>
+            </div>
+            <div n="69" type="chapter">
+               <head>¶ For the blody Menyſon. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxix.</head>
+               <p>¶ Take mylfoyle and plantayne of eueryche alyke moche, ſtampe them all togyther, and ke<g ref="char:EOLhyphen"/>pe it, and whan thou wylte take therof tempre it with wyne, and lette the pacyent drynke it, and he ſhall be hole.</p>
+            </div>
+            <div n="70" type="chapter">
+               <head>¶ For a mans ſtones that be ſwollen. Capitulum. lxx.</head>
+               <p>¶ Take an Herbe that is called Marcellee in Frenche, and frye it well in oyle Olyue, and laye it to the ſtones that is ſwollen, as hote as it may be ſuffered .viii. dayes or more and nede be, for this wyll hele the ſwellynge.</p>
+            </div>
+            <div n="71" type="chapter">
+               <head>¶ For to make one ſklendre. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxi.</head>
+               <p>¶ Take and ſethe Fenell in water and drynke
+<pb facs="tcp:180848:28"/> the water laſte at euen, and fyrſte at morowe, &amp; it ſhall ſwage hym or her ſhortly.</p>
+            </div>
+            <div n="72" type="chapter">
+               <head>¶ For hym that lacketh wynde. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxii.</head>
+               <p>¶ Take malowes, mercuree, and borage &amp; ſeth them togyther with a peace of porke, and ma<g ref="char:EOLhyphen"/>ke therof potage &amp; eate it, and drynke the broth with whyte wyne, or with whey made of mylke</p>
+            </div>
+            <div n="73" type="chapter">
+               <head>¶ For hym that is coſtyfe. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxiii.</head>
+               <p>¶ Take the iuce of walworte, &amp; medle it with ho<g ref="char:cmbAbbrStroke">̄</g>ny, and gyue it the pacyent to drynke.</p>
+            </div>
+            <div n="74" type="chapter">
+               <head>¶ For a wycked blaſte, and wynde in the vyſage. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxiiii.</head>
+               <p>¶ Take an henne egge and roſte it harde, than take the whyte therof, and an ounce of Cope<g ref="char:EOLhyphen"/>ras, and bete it togyther ſmall in a braſen mor<g ref="char:EOLhyphen"/>ter tyll it be lyke an oyntment, and therwith a<g ref="char:EOLhyphen"/>noynte the face that is blaſted, and whan it is hole, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m anoynt it with Populyon, and that wyll ſouple the ſkynne, and make it hole.</p>
+            </div>
+            <div n="75" type="chapter">
+               <head>¶ For the Shyngles. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxv.</head>
+               <p>¶ Take Doues donge and Barly meele, and ſtampe them togyther, and tempre theym with ayſell, and lay it therto.</p>
+            </div>
+            <div n="76" type="chapter">
+               <head>¶ For the Kowgh. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxvi.</head>
+               <p>¶ Take netles that be gathered betwene ſaynt Mary dayes in Harueſt, of theym that beareth ſede, and drye them in the ſonne, and rubbe out the ſede, and grynde it to powder, and drinke it
+<pb facs="tcp:180848:28" rendition="simple:additions"/> with me, and thou ſhalt be hole.</p>
+            </div>
+            <div n="77" type="chapter">
+               <head>¶ For hym that hath the peryllous Kowghe. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxvii.</head>
+               <p>¶ Take Sauge, Rue. Comyn, and powdre of peper, and ſethe them in ho<g ref="char:cmbAbbrStroke">̄</g>ny, and make therof a Lectuary, and vſe therof a ſponefull at euyn and another in the mornynge.</p>
+            </div>
+            <div n="78" type="chapter">
+               <head>¶ For the Kowghe, that is called the Chynke knowghe. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxviii.</head>
+               <p>¶ Take the rotes of Horſehele, and Comfery as moche of one as of another, and ſtampe them ſmall in a morter, ſethe them in fayre wa<g ref="char:EOLhyphen"/>ter, tyll the halfe dele be waſted, and than take the thyrde parte of ho<g ref="char:cmbAbbrStroke">̄</g>ny boyled and ſcummed, and put them to gyther, and make therof a Lec<g ref="char:EOLunhyphen"/>tuarye, and do it in a boxe, and let the ſycke vſe therof .v. dayes or .vi. a good quantyte at ones, fyrſte and laſte, and he ſhall be hole.</p>
+            </div>
+            <div n="79" type="chapter">
+               <head>¶ For the Iche. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxix.</head>
+               <p>¶ Take frankenſence, and braye it ſmall, and medle it with oyle of Baye, and than anoynte there as it Icheth. &amp;c.</p>
+            </div>
+            <div n="80" type="chapter">
+               <head>¶ For to drawe a byle from one place to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxx.</head>
+               <p>¶ Take an herke that is called Oeulus chriſti, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruayne and make a playſter of it, and lay it from the byle .ii. fyngers brode, and whan it hath lyen a good whyle remeue it, and do ſo
+<pb facs="tcp:180848:29"/> ſtyll, tyll it be there that thou wolde haue it, and there let it breke. <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="81" type="chapter">
+               <head>¶ For hym that pyſſeth blode. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxi.</head>
+               <p>¶ Take percely, ambroſe, and burſa paſtoris, of euery<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he a lyke moche, and ſtampe them and tempre them with a quantyte of gotes mylke, and ſtrayne it, and let hym drynke it .iii. dayes euyn and at morowe, and this wyll ſtaunche hym ſhortly. <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="82" type="chapter">
+               <head>¶ For a man that hath loſte his mynde. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxii.</head>
+               <p>¶ Take the iuce of Goldes, of Sauge, and of wormewood, of eueryche of them a ſponefull, &amp; take as moche of whyte wyne, and put therto and let hym drynke it at euyn, and as moche a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> morowe colde, and ſerue hym thus fy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dayes durynge, and he ſhall be hole.</p>
+            </div>
+            <div n="83" type="chapter">
+               <head>¶ Another for the ſame. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxiii.</head>
+               <p>¶ Take and ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the heer of the molde of his heed, than take Archaungell and ſtampe it, and bynde it to his heed, where it is ſhauen, &amp; lette hym take a ſlepe therwithall, and whan he waketh he ſhal be ryght weyke, &amp; ſobre ynough.</p>
+            </div>
+            <div n="84" type="chapter">
+               <head>¶ For hym that hath the freneſye. Capitulum. lxxxiiii.</head>
+               <p>¶ Take oyle of roſes, oyle of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yolettes, and of eueryche of them .xx. poys, and as moche of water of Locorde, and put it in a newe veſſell
+<pb facs="tcp:180848:29" rendition="simple:additions"/> of earthe, &amp; boyle it tyll all the water be fayled, than put out that, and put in other in the ſame veſſell aſmoche of that water, and boyle it thus ſeuen tymes, &amp; than put therto halfe of the .iiii. parte of a poys of Ca<g ref="char:cmbAbbrStroke">̄</g>fere &amp; medle it well togy<g ref="char:EOLunhyphen"/>ther, &amp; vſe it on his heed whan it is new ſhauen.</p>
+            </div>
+            <div n="85" type="chapter">
+               <head>¶ For a perſone that vomyſſheth to moche. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxv.</head>
+               <p>¶ Take Roſes and boyle theym well in good ſtronge vynegre, and makt a playſter therof, &amp; lay it to the perſones ſtomacke.</p>
+            </div>
+            <div n="86" type="chapter">
+               <head>¶ For a man that hath diſeaſe in his eares. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxvi.</head>
+               <p>¶ Take fayre oyle Olyfe, and let it be blowen out of a mans mouthe, that is clene and faſtyn<g ref="char:EOLunhyphen"/>ge in to the eares of the ſycke man, and let this be done .iii. or .iiii. tymes, and lette that ſyde of the heed be turned downewarde, that the ordure of the heed maye ronne out, and vſe this .viii. or ix. dayes, and he ſhall be amended.</p>
+            </div>
+            <div n="87" type="chapter">
+               <head>¶ For a man that his eares ſowne within. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxvii.</head>
+               <p>¶ Take Amondes, and the Carnelles of Pe<g ref="char:EOLhyphen"/>ches, and let them be clene pylled in hote water, and make oyle of them, and let that oyle be put in to the eares of y<hi rend="sup">•</hi> ſycke body with tentes ma<g ref="char:EOLhyphen"/>de of fyne lynnen clothe, and vſe this .viii. or .ix. dayes, and he ſhall be hole.</p>
+            </div>
+            <div n="88" type="chapter">
+               <pb facs="tcp:180848:30"/>
+               <head>¶ For ſynewes that ſhrynke after they haue ben hurte &amp; healed. Ca. lxxxxviii.</head>
+               <p>¶ Take enſenee, calaſome, maſtyke, hantit, tur<g ref="char:EOLunhyphen"/>pentyne, galbenon, viſque, the mary of an aſſe ſhepes ſuet, olde ſwynes grece, and butter, &amp; of eueryche of them halfe an ounce, than take an ounce and an halfe of waxe, and an ounce of oyle olyue, and ſtampe them and boyle all theſe thynges togyther, and make it in maner of an oyntment harde to make playſters, &amp; than ma<g ref="char:EOLunhyphen"/>ke therof a playſter and laye it on the hurte ſe<g ref="char:EOLhyphen"/>newes, and lette this lye .xv. dayes or more, and they ſhall ſtretche out well.</p>
+            </div>
+            <div n="89" type="chapter">
+               <head>¶ For to ſtaunche blode. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxix.</head>
+               <p>¶ Take an herbe that is called Lune ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e and ſtampe it, and laye it on the wounde, or ta<g ref="char:EOLunhyphen"/>ke the grene leues therof, &amp; laye vpon the woun<g ref="char:EOLunhyphen"/>de, and it ſhall ſtaunche, and yf a man may not haue this hethe, lette hym bren the Fethers of a cockes necke, and take the aſſhes of theym, and laye the aſſhes on the wounde, and the blode ſhall ſoone be ſtaunched.</p>
+            </div>
+            <div n="90" type="chapter">
+               <head>¶ Alſo to ſtaunche blode. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxx.</head>
+               <p>¶ Take a peaſe of ſalte beefe that is well ſalted or els a peaſe of ſalte beefe that hangeth in the rofe, &amp; couer it in hote embres tyll it be through hote, and take aſmoche as wyll ſtoppe the hole, and bynde it faſt to, as hote as the pacye<g ref="char:cmbAbbrStroke">̄</g>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may
+<pb facs="tcp:180848:30" rendition="simple:additions"/> ſuffre it, and it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all ſtaunche anone, but let the beefe be fatte and lene togyther.</p>
+            </div>
+            <div n="91" type="chapter">
+               <head>¶ For an empoſtume. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxi.</head>
+               <p>¶ Take barlye &amp; drye beanes, and lycores, and let boyle them with fayre water al togyther, of eueryche a lyke moche, and drynke therof with ſugre euery daye faſtynge, and at nyght whan he goeth to bed, and vſe this .vi. dayes or more, and he ſhall caſt out the poſtume.</p>
+            </div>
+            <div n="92" type="chapter">
+               <head>¶ For ſpettynge of blode. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxii.</head>
+               <p>¶ Take ache, myntes, rue, and betayne &amp; ſethe them togyther well in good mylke, and gyue it hym to drynke fyrſte in the morenynge, &amp; laſte at nyght, and he ſhall be hole.</p>
+            </div>
+            <div n="93" type="chapter">
+               <head>¶ For wylde fyre, that is called the fyre of hell. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxiii,</head>
+               <p>¶ Take red wormes of the earthe, and the rote of valeryon, and ſtampe them togyther, &amp; laye it therto, and take valeryon the rote and the le<g ref="char:EOLhyphen"/>ues and ſtampe it, and tempre it with water &amp; gyue hym to drynke, and he ſhall be hole.</p>
+            </div>
+            <div n="94" type="chapter">
+               <head>¶ For the bytynge of a mad dogge. Capitulum. lxxxxiiii.</head>
+               <p>¶ Take the ſede of boxe &amp; ſtampe it, &amp; tempre it with holy water, &amp; gyue it hym to drynke. &amp;c.</p>
+            </div>
+            <div n="95" type="chapter">
+               <head>¶ For to do away a wenne. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxv.</head>
+               <p>¶ Take &amp; bynde faſt the wenne, than take ver<g ref="char:EOLhyphen"/>dygrece, ſulphur, ſope, oyle of egges alom and
+<pb facs="tcp:180848:31"/> honny, and tempre theym togyther, and laye it therto, and it ſhall do away the wenne, and hea<g ref="char:EOLunhyphen"/>le it without any doubte.</p>
+            </div>
+            <div n="96" type="chapter">
+               <head>¶ For to breke a felon i<g ref="char:cmbAbbrStroke">̄</g> a nyght. Ca. lxxxxvi.</head>
+               <p>¶ Take powdre made of Cantarydes, &amp; tem<g ref="char:EOLhyphen"/>pre it with clene ſhepes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alowe, &amp; make a play<g ref="char:EOLhyphen"/>ſter therof &amp; laye it therto, and it ſhall breke.</p>
+            </div>
+            <div n="97" type="chapter">
+               <head>¶ For the mygrym. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxvii.</head>
+               <p>¶ Take .iiii. handefull of redde Roſe flowres freſſhe in ſo<g ref="char:cmbAbbrStroke">̄</g>mer, &amp; in wynter welked, &amp; .iii. han<g ref="char:EOLhyphen"/>defull of camamell, and as moche of veruayne and breke them ſmall with thy handes &amp; boyle them in a pottell of whyte wyne of gaſcoyne yf it maye be had, or elles in tochell wyne vntyll it come to a quarte, and put them in .iii. bagges broched flat lyke a playſter, and lay there the ache is, as hote as the ſycke may ſuffre. and chaunge them hote and hote, durynge a day and a nyght, and lenger yf nede be.</p>
+            </div>
+            <div n="98" type="chapter">
+               <head>¶ For the morfewe. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxviii.</head>
+               <p>¶ Take water of elder &amp; drynke it .iii. ſpone<g ref="char:EOLhyphen"/>full in y<hi rend="sup">e</hi> mornynge .ii. or .iii. tymes, &amp; whan ye reccyue it, walke after and catche a good hete. And than take a pynte of whyte vynegre and .ix. oke aples, and cut theym and layne theym. iii. dayes, and .iii. nyghtes in the ſame vynegre and after take a fayre lynnen clothe and put the aples in the ſame cloth, &amp; ſtrayne them, and
+<pb facs="tcp:180848:31" rendition="simple:additions"/> with the lycoure therof &amp; anoynt thy body .iiii. dayes, &amp; it wyll do away the morfewe.</p>
+            </div>
+            <div n="99" type="chapter">
+               <head>¶ For to ſtop the flyxe. Cap<g ref="char:cmbAbbrStroke">̄</g>. lxxxxix.</head>
+               <p>¶ Sake an onyon and roſte it tyll it be tender than bruſe it and lappe it in a lynen clothe, and put it betwyxt the clyfte of the buttockes euyn ioynynge to the foundement, and ſet hym dow<g ref="char:EOLunhyphen"/>ne therupon, as hote as he maye ſuffre a longe tyme, and take an other onyon and plucke out the core, and fyll the hole full of frankenſence, and englyſſhe ſaffron, and take the couerynge of the onyon and couer the hole, and put it in the embres, and lette it boyle tyll it be ſomwhat tender, and than put away the couerynge, and lay y<hi rend="sup">•</hi> onyon as hote as it may be ſuffred vpon his nauell hole, and bynde it faſt that it fall not awaye, and he ſhall be hole.</p>
+            </div>
+            <div n="100" type="chapter">
+               <head>¶ For the Canker, wylde fyre, &amp; ignis ſancti Aathonii. Cap<g ref="char:cmbAbbrStroke">̄</g>. C.</head>
+               <p>¶ Take &amp; roſte Sorell in a wete lynnen clothe the ſpace of halfe an houre, vnder the hote em<g ref="char:EOLhyphen"/>bres, and than ſtampe it with fyne claryfyed honnye and laye that to the ſore, and without doubte, it wyll do awaye the brennynge blacke<g ref="char:EOLunhyphen"/>nes, and ſtyncke, and heale it perfytely.</p>
+            </div>
+            <div n="101" type="chapter">
+               <head>¶ For to make heere to growe. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .i.</head>
+               <p>¶ Take and ſethe malowes rotes and all, and waſſhe the place there as the heere lacketh, and
+<pb facs="tcp:180848:32"/> it ſhall growe. &amp;c. <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="102" type="chapter">
+               <head>¶ For to do awaye heere. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .ii.</head>
+               <p>¶ Take horſe leches and bren them to powdre, and mynge it with eyſell, and towche the place there the heere groweth, and it ſhall growe no more there. &amp;c. ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="103" type="chapter">
+               <head>¶ For a ſcalde heede. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .iii.</head>
+               <p>¶ Take a peny worth of lampe oyle, and halfe a pynte of fayre water, and boyle it well togy<g ref="char:EOLhyphen"/>ther, and whan it is colde put therto an halfe pe<g ref="char:EOLunhyphen"/>ny worthe of quycke ſyluer, and tempre it well togyther, and anoynte the heede.</p>
+            </div>
+            <div n="104" type="chapter">
+               <head>¶ For the yelowe Iaundes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .iiii.</head>
+               <p>¶ Take a quantite of turmeryke, and aſmoche of yuorye beten to powdre, and aſmoche of the inner barke of barbery tree, and a quantyte of Englyſſhe ſaffron in powdre, and modle them all togyther, &amp; drynke it with mylke .iii. or .iiii. dayes faſtynge in the mornynge.</p>
+            </div>
+            <div n="105" type="chapter">
+               <head>¶ For the blacke Iaundes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .v.</head>
+               <p>¶ Take genciana, longe peper, calamus aro<g ref="char:EOLhyphen"/>maticus, auencis, lycores, reyſyns of coraunce whyte ſope of ſpayne, of eueryche. i. 3. and two ſponefull of muſtarde, and boyle all theſe in a quarte of wyne tyll the thyrde parte be waſted, and let the pacyent drynke it.</p>
+            </div>
+            <div n="106" type="chapter">
+               <head>¶ For wormes and heate in the handes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .vi.</head>
+               <pb facs="tcp:180848:32" rendition="simple:additions"/>
+               <p>¶ Take Chykenwyde and bruſe it a lytell, and than ſethe it in ronnynge water, tyll the water be half waſted awaye, than take and waſſhe the ſore handes therin, as hote as the pacyent, may ſuffre it, and do thus .iii. or .iiii. dayes durynge and he ſhall be hole. ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="107" type="chapter">
+               <head>¶ For the gowte. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .vii.</head>
+               <p>¶ Take red myntes, and creſſons, and vnſet le<g ref="char:EOLunhyphen"/>kes, and let theſe herbes ſethe well togyther and waſſhe there as the ſyckenes is euery daye two tymes a daye, and yf ye can not haue theſe her<g ref="char:EOLhyphen"/>bes, let the ſycke body be waſſhed with hote wa<g ref="char:EOLhyphen"/>ter, and anoynte hym before the fyre or in the ſonne with this onyntme<g ref="char:cmbAbbrStroke">̄</g>t, and robbe hym well therwith. Take virgyn waxe, turpentyne, ſaf<g ref="char:EOLhyphen"/>fton, the yolke of an egge, oyle olyue, oyle of Almondes, Maye butter, oyle of nuttes, oyle doret, the grece of a barowe hogge, oyle of Ca<g ref="char:EOLhyphen"/>mamell, and ſhepe ſuet, with good clarifyed ho<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ny, and ſet all theſe be medled togyther, &amp; boy<g ref="char:EOLhyphen"/>led fayre and eaſely by the fyre.</p>
+            </div>
+            <div n="108" type="chapter">
+               <head>¶ For ſore knees that doth ſwell and ake. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .viii.</head>
+               <p>¶ Take rue, louage, &amp; ſtampe them togyther and put therto honny, and make therof a play<g ref="char:EOLhyphen"/>ſter, and laye it to the ſore knees, and that ſhall fet away the ſwellynge and the ache.</p>
+            </div>
+            <div n="109" type="chapter">
+               <head>¶ For the fallynge euyll. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .ix.</head>
+               <pb facs="tcp:180848:33"/>
+               <p>¶ Take the blode of his lytel fynger that is ſyc<g ref="char:EOLunhyphen"/>ke, and wryte theſe. iii. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſes folowynge, and hange it aboute his necke.</p>
+               <p>Iaſper fert Myrram / thus Melchior / </p>
+               <p>Balthazer aurum.</p>
+               <p>Hec quicu<g ref="char:cmbAbbrStroke">̄</g>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſecum portat / tria no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egum.</p>
+               <p>Soluitur a morbo / domini pietate caduco.</p>
+            </div>
+            <div n="110" type="chapter">
+               <head>¶ For brennynge and ſcaldynge. Capitulum. C. x</head>
+               <p>¶ Take freſſhe gees Donge, and frye it with freſſhe butter, and ſhepes talowe, and ſtrayne it throughe a clothe, and laye it on the ſore, and it wyll hele anone. ☞ ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="111" type="chapter">
+               <head>¶ For brennynge with fyre. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xi.</head>
+               <p>¶ Take the rynde of an elme tree, and ſethe it halfe a daye in fayre water, and let it kele, and gather of the thycke that thou fyndeſt vpon the water with a fether, and euery daye anoynte it with the fether euyn and morowe.</p>
+            </div>
+            <div n="112" type="chapter">
+               <head>¶ For to hele hurtes &amp; woundes. Ca. C. xii.</head>
+               <p>¶ Take malowes and ſethe them well, &amp; whan they be wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoden, take and ſtampe them, and than take olde barowes grece, and clene barly mele, and mynge the iuce, the mele and the gre<g ref="char:EOLhyphen"/>ce all togyther, and make a ſalue therof, for it is a redy heler. ☞ ☞ ☞ <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="113" type="chapter">
+               <head>¶ Alſo to make a ſalue to drawe and to hele. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xiii.</head>
+               <pb facs="tcp:180848:33" rendition="simple:additions"/>
+               <p>¶ Take a quartron of a pou<g ref="char:cmbAbbrStroke">̄</g>de of virgyn waxe and two ounces of ſhepes ſuet, and melte them togyther a lytell, and than take them from the fyre, and put therto an ounce of frankenſence and ſtere it well togyther, and do it in a boxe, &amp; this wyll bothe drawe and hele.</p>
+            </div>
+            <div n="114" type="chapter">
+               <head>¶ For ſtyngynge of Edders and ſnakes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xiiii.</head>
+               <p>¶ Take dragons and drynke it, &amp; alſo ſtampe dragons and laye it to the place there the ſtyn<g ref="char:EOLhyphen"/>gynge is, and that ſhall ſucke out the venym &amp; ſeaſe the ſmertynge. ☞ ☞ <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="115" type="chapter">
+               <head>¶ For hym that can not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lepe. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xv.</head>
+               <p>¶ Take pety morell and ſtampe it, and wryn<g ref="char:EOLhyphen"/>ge out the iuce, than take. iiii. ſponefull of the iu<g ref="char:EOLunhyphen"/>ce, and .iiii. ſponefull of womans mylke, and a ſponefull of vynegre and hete it, and therwith anoynte his temples and his forheed, and as it dryeth anoynte it agayne, and than wete a clothe therin, and laye it vpon his forheed, and vſe this oftentymes, &amp; this ſhal make hym ſlepe</p>
+            </div>
+            <div n="116" type="chapter">
+               <head>¶ For the palſey. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xvi.</head>
+               <p>¶ Take the galle of an oxe, or of a bulle of one coloure, yf it may be gotten, and .iii. or .iiii. red onyons, and roſte them tyll they be tendre, and than ſtampe them well in a bole dyſſhe, &amp; myn<g ref="char:EOLhyphen"/>ge the gall and them togyther, and loke there be .iiii. tymes aſmoche of the galle as of y<hi rend="sup">e</hi> onyons
+<pb facs="tcp:180848:34"/> &amp; therwith anoynte wel the place that is greued tyll it be dronke in, and than take a ſofte ſhete newe whaſte, and warme it agaynſt the fyre, &amp; wrappe the ſycke body therin, and this muſte be vſed at nyghte to bedwarde, and within .ix. nyghtes it wyll amende and make the fleſſhe growe thoughe it be moche awaye, and yf the ſkynne be waxen thycke by vanyſſhynge away of the fleſſhe, take red nettell croppes and rubbe well the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynne, and the oyntmente wyll better drynke in, and this oyntmente is good for all maner aches, for euery body.</p>
+            </div>
+            <div n="117" type="chapter">
+               <head>¶ A very good drynke for the Poxes. Capitulum. C. xvii.</head>
+               <p>¶ Take Salendyne, and Englyſſhe ſaffron, the weyghte of an halfe peny, and a farthynge worth of graynes, a quarter of longe peper, a peny weyght of maſe, &amp; ſtale ale, ſtampe your herbe, and powdre your ſaffron, &amp; medle theym all togyther, and than dyrnke it.</p>
+            </div>
+            <div n="118" type="chapter">
+               <head>¶ A ſalue for the poxes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xviii,</head>
+               <p>¶ Take whyte lede .i. quartron. ob. verdegrece. i. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ob. maſtyke. i. 8. comfere. i. 8. roſen .ii. ounces ſeryouſe. i. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. mercurye. ob. turpentyne, breke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all theſe in a morter, and medle your turpentyne with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yle olyue, and than mynge them all togy<g ref="char:EOLunhyphen"/>ther, and make therof a ſalue &amp; anoynt the ſyc<g ref="char:EOLhyphen"/>ke body therwith and let hym lye &amp; ſwete. &amp;c.</p>
+            </div>
+            <div n="119" type="chapter">
+               <pb facs="tcp:180848:34" rendition="simple:additions"/>
+               <head>¶ For the gowte, or ſwellynge of ioyntes and knobbes, that co<g ref="char:cmbAbbrStroke">̄</g>meth of the ache of the Poxes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xix.</head>
+               <p>¶ Take May butter, and halfe a pounde of co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>myn, and a quarter of a pounde of blacke ſope, and a handfull of rue, &amp; a lytell of ſhepe ſtwet and ſtampe all theſe in a morter, than take the gall of an oxe, and a ſponefull of baye ſalte &amp; ſeye all togyther in a fryenge panne tyll it be thycke, than lay it on a wollen clothe and lay it to the ache as hote as it may be ſuffred, duryn<g ref="char:EOLhyphen"/>ge .iii. wekes, and euery weke a newe playſter, and it ſhall take awaye the ache and the ſwellyn<g ref="char:EOLunhyphen"/>ge without doubte. ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="120" type="chapter">
+               <head>¶ For the Crampe. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xx.</head>
+               <p>¶ Say Bero, Barto, Bertora, theſe muſte be ſayde thre tymes, make a croſſe vpon it with your hande, whan the Crampe co<g ref="char:cmbAbbrStroke">̄</g>meth vpon a man or a woman. ☞ <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+               <p>¶ For the ſpottes of y<hi rend="sup">e</hi> morfewe. Ca. C, xxi.</p>
+               <p>¶ Take and roſte .iiii. egges harde, &amp; put them broken all hote in to a pynte potte with a pynte of vy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egre, and let it ſtande ſo .iii. dayes, and .iii. nyghtes, durynge well ſtopped, &amp; than clen<g ref="char:EOLhyphen"/>ſe it throughe a lynnen clothe, and waſſhe the ſpottes therwith tyll they be awaye.</p>
+            </div>
+            <div n="121" type="chapter">
+               <head>¶ To put away the rote of the mor<g ref="char:EOLhyphen"/>fewe. Cap<g ref="char:cmbAbbrStroke">̄</g>. C. xxii.</head>
+               <pb facs="tcp:180848:35"/>
+               <p>¶ Take Fumytarye .viii. handfull, borage, ſca<g ref="char:EOLhyphen"/>byous, of eche .iiii. handfull, and braye them to<g ref="char:EOLhyphen"/>gyther in a morter, and put therto a pottell of clene whaye, than ſtrayne them togyther, and ſet it ouer the fyre tyll it haue a hatte of ſcu<g ref="char:cmbAbbrStroke">̄</g>me, than ſet it downe and ſtrayne it clene, and ſet it ouer the fyre agayne, and put therto claryfy<g ref="char:EOLunhyphen"/>ed ho<g ref="char:cmbAbbrStroke">̄</g>ny, and boyle them togyther clene, that is to ſay, boyle them eaſely as lo<g ref="char:cmbAbbrStroke">̄</g>ge as any ſcu<g ref="char:cmbAbbrStroke">̄</g>me wyll aryſe, or els ye maye claryfye it with eg<g ref="char:EOLhyphen"/>ges, who ſo claryfyeth whay, &amp; take therof .viii. ſponeful or a good draughte or two, as ye thyn<g ref="char:EOLunhyphen"/>ke beſt, for it ſhall do you moche good.</p>
+            </div>
+            <div n="122" type="chapter">
+               <head>¶ For a chylde that is Iowefall, or molde fall, or rofe fall. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxiii.</head>
+               <p>¶ Take a handefull of Chycke wede, &amp; lappe it in a red Cole lef<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or els in a lynnen clothe and roſte it in hote embres in the fyre, &amp; it wyll be a grene ſalue, and than laye the ſayd ſalue to the bone in the necke as hote as it may be ſuffred.</p>
+               <p>Alſo take ſowre leuyn of whyte brede, &amp; cro<g ref="char:cmbAbbrStroke">̄</g>me it on the molde of the childes heed as a playſter &amp; it ſhall reyſe vp the bone or molde by the gra<g ref="char:EOLhyphen"/>ce of god, within .ix. dayes.</p>
+            </div>
+            <div n="123" type="chapter">
+               <head>¶ For the moder. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxiiii.</head>
+               <p>¶ Take moderworte, called y<hi rend="sup">e</hi> mother of all her<g ref="char:EOLunhyphen"/>bes, that is to ſaye ſhortly mugwort, herbe Sy<g ref="char:EOLunhyphen"/>mynde, ſauarye, and redde mynte, and drynke
+<pb facs="tcp:180848:35" rendition="simple:additions"/> this iuce with good redde wyne. <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g> 
+                  <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="124" type="chapter">
+               <head>¶ For all feuer agues, &amp; for yonge chyl<g ref="char:EOLhyphen"/>dren ſuckyng the breſt. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxv.</head>
+               <p>¶ Take powdre of Chryſtall / and laye it to ſooke in wyne / and gyue it to drynke to the noryſe of the chylde / and the ſuckynge chylde ſhal be hole. Alſo take the rote of morſus dia<g ref="char:EOLhyphen"/>boli with the herbe / and hange it aboute the necke of the chylde.</p>
+            </div>
+            <div n="125" type="chapter">
+               <head>¶ For to dyſtroye poyſon. Ca. C .xxvi.</head>
+               <p>¶ Take a quantyte of dragons / and a quan<g ref="char:EOLhyphen"/>tyte of betayne / and a quantyte of plantayne and make herof wortes / &amp; vſe them .iii. dayes and this ſhall dyſtroye poyſon and venym / but the moſte parte muſte be dragons.</p>
+            </div>
+            <div n="126" type="chapter">
+               <head>¶ For the ague. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxvii.</head>
+               <p>¶ Take Endyue, ſowthyſtyll / daundelyon / letuſe / ſorell / of eueryche a lyke moche / and ſtylle theſe all togyther / and the water wyll be paſſynge good for the agewe.</p>
+            </div>
+            <div n="127" type="chapter">
+               <head>¶ For the hote ague infected with pyſty<g ref="char:EOLhyphen"/>lence taken betymes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxviii.</head>
+               <p>¶ Take the Iuce of ſyngrene / and the whyte of foure egges / and fayre flowre of whete / and medle it well togyther / and make ther<g ref="char:EOLhyphen"/>of a fayre playſter / and lay it to the pacyentꝭ ſydes / and than take the water of betayne / &amp; the water of pympernell / and the water of ſca<g ref="char:EOLhyphen"/>byous,
+<pb facs="tcp:180848:36"/> and the water of turmentyll, and water of radeys, of eueryche a lyke moche medled to<g ref="char:EOLhyphen"/>gyther / and gyue the pacynt the drynke.</p>
+            </div>
+            <div n="128" type="chapter">
+               <head>¶ For the gowte. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxix.</head>
+               <p>¶ Take tanſey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and wormewode of eche a lyke moche / temperatlye ynoughe of ſhepes ſewet, accordynge to your herbes / and frye them in a panne ouer the fyre tyll it be grene / but beware it be not brente / and whan ye well occupye it / caſt a ſponefull of lyneſede therin and yf it be the colde gowte / lay it to hote / and yf it be the hote gowte laye it to colde wynter and ſomer. ☞ <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <div n="129" type="chapter">
+               <head>¶ To drawe out ache. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxx.</head>
+               <p>¶ Take cantarydes / and take of theyr heddes and ſtepe them .iiii. or .v. houres in good vyne<g ref="char:EOLunhyphen"/>gre / and than laye them vpon a playſter of diaculum / &amp; aboue vpon them a fyne lynnen clothe / or elles fyne double of lawne next the ſkynne / and ſowe in your c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntarydes in ma<g ref="char:EOLhyphen"/>ner of a quylte / and laye it to the ache / and it wyll make it to blyſter / than prycke it out with a nedle / and than take this medycyne fololowynge / and it wyll drye it.</p>
+            </div>
+            <div n="130" type="chapter">
+               <head>¶ To drye the ſame. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxxi.</head>
+               <p>¶ Take grounde yuye a quantyte and ſtam<g ref="char:EOLhyphen"/>pe it in a morter / than take ſhepes ſewet / and put them both in a panne and frye them well
+<pb facs="tcp:180848:36" rendition="simple:additions"/> togyther / tyll it be grene / and than ye ſhall ſtrayne it, and make of it a cake, and whan it is colde, make therof a playſter broder than youre Cantarydes was, and within thre dayes after all ſhall be paſte and drye.</p>
+            </div>
+            <div n="131" type="chapter">
+               <head>¶ For the ſwellynge in a mans knee or legge that aketh. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxxii.</head>
+               <p>¶ Take a blewe or a blunket wollen clothe, as moche as wyll lappe aboute the knee or legge, &amp; than take the whyte of two or thre henne egges and bete them well in a treen dyſſhe and ſprede it vpon the clothe, ſo done / than take the yolkes and bete them in the ſame dyſſhe, and put ther<g ref="char:EOLhyphen"/>to blacke ſope as moche or more, and bete them both well togyther, and whan they be wel beten togyther it wyl be a fayre ſalue, &amp; than ſpreke it thycke vpon the ſame cloth, on the whyte of the egges, meately thycke, and lappe it aboute the ſore knee or legge and rolle it, and let it lye thre daye and thre nyghtes, and it wyll fetche away the ſwellynge and the ache.</p>
+            </div>
+            <div n="132" type="chapter">
+               <head>¶ For the yche or ſcabbes. Cap<g ref="char:cmbAbbrStroke">̄</g>. C .xxxiii.</head>
+               <p>¶ Take the ſeede or the herbe called ſtauyſacre and ſtampe theſe with portulake and with oyle of baye, and anoynte the pacyentes body ther<g ref="char:EOLhyphen"/>with, this is hote and drye. ☞ ☞ <g ref="char:leaf">❧</g>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:180848:37"/>
+            <head>¶ Imprynted by me Robert Wyer, dwellynge in ſeynt Martyns paryſſhe, at charynge Croſſe.</head>
+            <p>Ad imprimendum ſolum.</p>
+            <p>
+               <figure>
+                  <p>ROBERT WYER.</p>
+                  <figDesc>printer's device of Robert Wyer</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:180848:37" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
